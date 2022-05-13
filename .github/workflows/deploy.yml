@@ -16,7 +16,7 @@ jobs:
       - name: Build
         run: |
           mkdir -p page
-          ruby ur_elo_recalc.rb
+          bundle exec ruby ur_elo_recalc.rb
 
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4.3.3
