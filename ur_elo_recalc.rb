@@ -36,7 +36,7 @@ File.readlines('match.log').each do |match|
   match_logs << format("| %-10s | %-15s | %-15s | %3s | %1d | %4d |", date, p1, p2, score, dt, dt_elo)
 end
 
-md = File.new('page/ManUrEl.md', 'w')
+md = File.new('page/README.md', 'w')
 md.puts "# Ur-Matches"
 md.puts
 md.puts "## Participants"
