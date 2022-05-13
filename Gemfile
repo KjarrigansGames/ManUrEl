@@ -1,0 +1,1 @@
+gem 'elo_rating'
