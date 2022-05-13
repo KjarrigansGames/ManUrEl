@@ -15,7 +15,6 @@ jobs:
 
       - name: Build
         run: |
-          bundle
           mkdir -p page
           ruby ur_elo_recalc.rb
 
