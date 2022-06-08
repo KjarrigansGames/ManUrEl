@@ -1,6 +1,5 @@
 require 'elo_rating'
-require 'SVG/Graph/DataPoint'
-require 'SVG/Graph/Line'
+require 'SVG/Graph/Plot'
 
 START_ELO = 1200
 
@@ -15,30 +14,23 @@ Player = Struct.new :name, :elo, :win, :loss, :last_match do
 end
 
 def generate_chart(players, filename:)
-  x_axis = (0..players.values.map { _1.elo_history.keys }.flatten.max).to_a
-
-  graph = SVG::Graph::Line.new({
+  graph = SVG::Graph::Plot.new({
     :height => 500,
     :width => 800,
-    :fields => x_axis.map(&:to_s),
+    :key => true,
+    :scale_x_integers => true,
+    :scale_y_integers => true,
     :graph_title => 'ELO-Score',
     :number_format => "%d",
   })
 
   players.each do |name, player|
-    prev_value = START_ELO
-    data = x_axis.map do |match|
-      prev_value = player.elo_history[match] || prev_value
-      prev_value.to_i
-    end
-
     graph.add_data({
-      :data => data,
+      :data => player.elo_history.to_a.flatten,
       :title => name,
     })
   end
-  # graph.burn            # this returns a full valid xml document containing the graph
-  # graph.burn_svg_only   # this only returns the <svg>...</svg> node
+
   File.open(filename, 'w') {|f| f.write(graph.burn)}
 end
 
@@ -89,16 +81,15 @@ players.sort_by { _2.elo }.reverse_each.with_index(1) do |(_,player),idx|
   md.puts player
 end
 md.puts
+md.puts "## Elo-Graph"
+md.puts
+md.puts "![elo-graph](elo_changes.svg)"
 md.puts
 md.puts "## Match-Log"
 md.puts
 md.puts "| Idx | Date         | Player 1        | Player 2        | Score | Δ | ΔELO |"
 md.puts "| --- | ------------ | --------------- | --------------- | ----- | - | ---- |"
-md.puts match_logs
-md.puts
-md.puts "## Elo-Graph"
-md.puts
-md.puts "![elo-graph](elo_changes.svg)"
+md.puts match_logs.reverse
 md.puts
 md.puts "## Misc"
 md.puts
