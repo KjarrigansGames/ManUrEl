@@ -37,7 +37,7 @@
 
 ## Elo-Graph
 
-![elo-graph](page/elo_changes.svg)
+![elo-graph](elo_changes.svg)
 
 ## Misc
 
