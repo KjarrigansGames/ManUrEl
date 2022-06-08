@@ -98,7 +98,7 @@ md.puts match_logs
 md.puts
 md.puts "## Elo-Graph"
 md.puts
-md.puts "![elo-graph](page/elo_changes.svg)"
+md.puts "![elo-graph](elo_changes.svg)"
 md.puts
 md.puts "## Misc"
 md.puts
