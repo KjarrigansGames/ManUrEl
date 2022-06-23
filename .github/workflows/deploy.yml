@@ -15,7 +15,6 @@ jobs:
 
       - name: Build
         run: |
-          mkdir -p page
           bundle exec ruby ur_elo_recalc.rb
 
       - name: Deploy
