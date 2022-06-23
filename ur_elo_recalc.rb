@@ -13,6 +13,14 @@ Player = Struct.new :name, :elo, :win, :loss, :last_match do
   end
 end
 
+DynamicFactor = {
+  5 => 40,
+  4 => 35,
+  3 => 30,
+  2 => 20,
+  1 => 10,
+}.freeze
+
 def generate_chart(players, filename:)
   graph = SVG::Graph::Plot.new({
     :height => 500,
@@ -50,9 +58,11 @@ File.readlines('match.log').each.with_index(1) do |match, lfd|
   pl2.loss += 1 if b < a
   pl1.last_match = date.strip
   pl2.last_match = date.strip
+  dt = (a - b).abs
 
   ref = players[p1.strip].elo
 
+  EloRating::k_factor = DynamicFactor[dt]
   match = EloRating::Match.new
   match.add_player(rating: pl1.elo, winner: a > b)
   match.add_player(rating: pl2.elo, winner: b > a)
@@ -61,7 +71,7 @@ File.readlines('match.log').each.with_index(1) do |match, lfd|
   pl1.elo_history[lfd] = pl1.elo
   pl2.elo_history[lfd] = pl2.elo
 
-  dt = (a - b).abs
+
   dt_elo = (ref - pl1.elo).abs
 
   match_logs << format("| %3d | %-10s | %-15s | %-15s | %3s | %1d | %4d |", lfd, date, p1, p2, score, dt, dt_elo)
@@ -93,4 +103,4 @@ md.puts match_logs.reverse
 md.puts
 md.puts "## Misc"
 md.puts
-md.puts "* ELO-Params: NewPlayerScore=1200 K=24 d=400"
+md.puts "* ELO-Params: NewPlayerScore=1200 K=dynamic[10..40] d=400"
