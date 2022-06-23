@@ -13,6 +13,20 @@ Player = Struct.new :name, :elo, :win, :loss, :last_match do
   end
 end
 
+module ColorChange
+  def get_style
+    super.gsub(/.svgBackground\{.*?\}/m, '.svgBackground{ fill: #151515 }')
+         .gsub(/.graphBackground\{.*?\}/m, '')
+         .gsub(/(\.(mainTitle|subTitle|xAxisLabels|yAxisLabels|xAxisTitle|yAxisTitle|keyText)\{.*?\})/m) do
+           _1.gsub(/fill: .*?;/, 'fill: #ffffff;')
+         end
+         .gsub(/(\.dataPointLabel.*?\})/m) do
+           _1.gsub(/fill:.*?;/, 'fill: #ffffff;').gsub(/stroke:.*?;/, 'stroke: #000000;')
+         end
+  end
+end
+SVG::Graph::Graph.prepend ColorChange
+
 DynamicFactor = {
   5 => 40,
   4 => 35,
@@ -24,7 +38,7 @@ DynamicFactor = {
 def generate_chart(players, filename:)
   graph = SVG::Graph::Plot.new({
     :height => 500,
-    :width => 800,
+    :width => 1000,
     :key => true,
     :scale_x_integers => true,
     :scale_y_integers => true,
