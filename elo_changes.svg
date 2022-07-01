@@ -306,1162 +306,1205 @@
 <text class='xAxisLabels' x='0.0' y='483' style='text-anchor: middle'>
 0
 </text>
-<text class='xAxisLabels' x='110.375' y='483' style='text-anchor: middle'>
+<text class='xAxisLabels' x='98.11111111111111' y='483' style='text-anchor: middle'>
 7
 </text>
-<text class='xAxisLabels' x='220.75' y='483' style='text-anchor: middle'>
+<text class='xAxisLabels' x='196.22222222222223' y='483' style='text-anchor: middle'>
 14
 </text>
-<text class='xAxisLabels' x='331.125' y='483' style='text-anchor: middle'>
+<text class='xAxisLabels' x='294.33333333333337' y='483' style='text-anchor: middle'>
 21
 </text>
-<text class='xAxisLabels' x='441.5' y='483' style='text-anchor: middle'>
+<text class='xAxisLabels' x='392.44444444444446' y='483' style='text-anchor: middle'>
 28
 </text>
-<text class='xAxisLabels' x='551.875' y='483' style='text-anchor: middle'>
+<text class='xAxisLabels' x='490.55555555555554' y='483' style='text-anchor: middle'>
 35
 </text>
-<text class='xAxisLabels' x='662.25' y='483' style='text-anchor: middle'>
+<text class='xAxisLabels' x='588.6666666666667' y='483' style='text-anchor: middle'>
 42
 </text>
-<text class='xAxisLabels' x='772.625' y='483' style='text-anchor: middle'>
+<text class='xAxisLabels' x='686.7777777777778' y='483' style='text-anchor: middle'>
 49
 </text>
-<text class='xAxisLabels' x='883.0' y='483' style='text-anchor: middle'>
+<text class='xAxisLabels' x='784.8888888888889' y='483' style='text-anchor: middle'>
 56
 </text>
+<text class='xAxisLabels' x='883.0' y='483' style='text-anchor: middle'>
+63
+</text>
 <text x='-13.5' y='472.0' class='yAxisLabels' style='text-anchor: middle' transform='translate( -12 0 ) rotate( 0 -13.5 472.0 ) '>
-1149
+1145
 </text>
 <text x='-13.5' y='420.0' class='yAxisLabels' style='text-anchor: middle' transform='translate( -12 0 ) rotate( 0 -13.5 420.0 ) '>
-1162
+1158
 </text>
 <path d='M0 416.0 h883.0' class='guideLines'/>
 <text x='-13.5' y='368.0' class='yAxisLabels' style='text-anchor: middle' transform='translate( -12 0 ) rotate( 0 -13.5 368.0 ) '>
-1175
+1171
 </text>
 <path d='M0 364.0 h883.0' class='guideLines'/>
 <text x='-13.5' y='316.0' class='yAxisLabels' style='text-anchor: middle' transform='translate( -12 0 ) rotate( 0 -13.5 316.0 ) '>
-1188
+1184
 </text>
 <path d='M0 312.0 h883.0' class='guideLines'/>
 <text x='-13.5' y='264.0' class='yAxisLabels' style='text-anchor: middle' transform='translate( -12 0 ) rotate( 0 -13.5 264.0 ) '>
-1201
+1197
 </text>
 <path d='M0 260.0 h883.0' class='guideLines'/>
 <text x='-13.5' y='212.0' class='yAxisLabels' style='text-anchor: middle' transform='translate( -12 0 ) rotate( 0 -13.5 212.0 ) '>
-1214
+1210
 </text>
 <path d='M0 208.0 h883.0' class='guideLines'/>
 <text x='-13.5' y='160.0' class='yAxisLabels' style='text-anchor: middle' transform='translate( -12 0 ) rotate( 0 -13.5 160.0 ) '>
-1227
+1223
 </text>
 <path d='M0 156.0 h883.0' class='guideLines'/>
 <text x='-13.5' y='108.0' class='yAxisLabels' style='text-anchor: middle' transform='translate( -12 0 ) rotate( 0 -13.5 108.0 ) '>
-1240
+1236
 </text>
 <path d='M0 104.0 h883.0' class='guideLines'/>
 <text x='-13.5' y='56.0' class='yAxisLabels' style='text-anchor: middle' transform='translate( -12 0 ) rotate( 0 -13.5 56.0 ) '>
-1253
+1249
 </text>
 <path d='M0 52.0 h883.0' class='guideLines'/>
 <text x='-13.5' y='4.0' class='yAxisLabels' style='text-anchor: middle' transform='translate( -12 0 ) rotate( 0 -13.5 4.0 ) '>
-1266
+1262
 </text>
 <path d='M0 0.0 h883.0' class='guideLines'/>
-<path d='M0.0 264.0 L0.0 264.0 15.767857142857142 284.0 47.30357142857142 264.0 63.07142857142857 244.0 78.83928571428572 204.0 94.60714285714285 184.0 126.14285714285714 208.0 141.9107142857143 168.0 173.44642857142856 148.0 189.2142857142857 116.0 220.75 184.0 236.51785714285714 164.0 252.28571428571428 204.0 268.0535714285714 184.0 283.8214285714286 144.0 299.5892857142857 208.0 315.3571428571429 268.0 331.125 244.0 346.8928571428571 280.0 362.6607142857143 296.0 378.4285714285714 328.0 394.1964285714286 348.0 409.9642857142857 328.0 473.0357142857143 368.0 488.80357142857144 324.0 504.57142857142856 344.0 520.3392857142858 380.0 536.1071428571428 396.0 551.875 452.0 567.6428571428572 468.0 583.4107142857142 416.0 614.9464285714286 368.0 630.7142857142858 344.0 678.0178571428572 380.0 709.5535714285714 332.0 741.0892857142858 312.0 756.8571428571428 292.0 788.3928571428572 328.0 804.1607142857142 280.0 819.9285714285714 244.0 ' class='line1'/>
-<circle cx='0.0' cy='264.0' r='2.5' class='dataPoint1'/>
-<circle cx='15.767857142857142' cy='284.0' r='2.5' class='dataPoint1'/>
-<circle cx='47.30357142857142' cy='264.0' r='2.5' class='dataPoint1'/>
-<circle cx='63.07142857142857' cy='244.0' r='2.5' class='dataPoint1'/>
-<circle cx='78.83928571428572' cy='204.0' r='2.5' class='dataPoint1'/>
-<circle cx='94.60714285714285' cy='184.0' r='2.5' class='dataPoint1'/>
-<circle cx='126.14285714285714' cy='208.0' r='2.5' class='dataPoint1'/>
-<circle cx='141.9107142857143' cy='168.0' r='2.5' class='dataPoint1'/>
-<circle cx='173.44642857142856' cy='148.0' r='2.5' class='dataPoint1'/>
-<circle cx='189.2142857142857' cy='116.0' r='2.5' class='dataPoint1'/>
-<circle cx='220.75' cy='184.0' r='2.5' class='dataPoint1'/>
-<circle cx='236.51785714285714' cy='164.0' r='2.5' class='dataPoint1'/>
-<circle cx='252.28571428571428' cy='204.0' r='2.5' class='dataPoint1'/>
-<circle cx='268.0535714285714' cy='184.0' r='2.5' class='dataPoint1'/>
-<circle cx='283.8214285714286' cy='144.0' r='2.5' class='dataPoint1'/>
-<circle cx='299.5892857142857' cy='208.0' r='2.5' class='dataPoint1'/>
-<circle cx='315.3571428571429' cy='268.0' r='2.5' class='dataPoint1'/>
-<circle cx='331.125' cy='244.0' r='2.5' class='dataPoint1'/>
-<circle cx='346.8928571428571' cy='280.0' r='2.5' class='dataPoint1'/>
-<circle cx='362.6607142857143' cy='296.0' r='2.5' class='dataPoint1'/>
-<circle cx='378.4285714285714' cy='328.0' r='2.5' class='dataPoint1'/>
-<circle cx='394.1964285714286' cy='348.0' r='2.5' class='dataPoint1'/>
-<circle cx='409.9642857142857' cy='328.0' r='2.5' class='dataPoint1'/>
-<circle cx='473.0357142857143' cy='368.0' r='2.5' class='dataPoint1'/>
-<circle cx='488.80357142857144' cy='324.0' r='2.5' class='dataPoint1'/>
-<circle cx='504.57142857142856' cy='344.0' r='2.5' class='dataPoint1'/>
-<circle cx='520.3392857142858' cy='380.0' r='2.5' class='dataPoint1'/>
-<circle cx='536.1071428571428' cy='396.0' r='2.5' class='dataPoint1'/>
-<circle cx='551.875' cy='452.0' r='2.5' class='dataPoint1'/>
-<circle cx='567.6428571428572' cy='468.0' r='2.5' class='dataPoint1'/>
-<circle cx='583.4107142857142' cy='416.0' r='2.5' class='dataPoint1'/>
-<circle cx='614.9464285714286' cy='368.0' r='2.5' class='dataPoint1'/>
-<circle cx='630.7142857142858' cy='344.0' r='2.5' class='dataPoint1'/>
-<circle cx='678.0178571428572' cy='380.0' r='2.5' class='dataPoint1'/>
-<circle cx='709.5535714285714' cy='332.0' r='2.5' class='dataPoint1'/>
-<circle cx='741.0892857142858' cy='312.0' r='2.5' class='dataPoint1'/>
-<circle cx='756.8571428571428' cy='292.0' r='2.5' class='dataPoint1'/>
-<circle cx='788.3928571428572' cy='328.0' r='2.5' class='dataPoint1'/>
-<circle cx='804.1607142857142' cy='280.0' r='2.5' class='dataPoint1'/>
-<circle cx='819.9285714285714' cy='244.0' r='2.5' class='dataPoint1'/>
-<path d='M0.0 264.0 L0.0 264.0 15.767857142857142 244.0 31.535714285714285 264.0 47.30357142857142 284.0 78.83928571428572 324.0 110.375 344.0 126.14285714285714 320.0 157.67857142857144 360.0 189.2142857142857 392.0 204.98214285714286 412.0 394.1964285714286 392.0 409.9642857142857 412.0 425.7321428571429 360.0 441.5 376.0 457.26785714285717 328.0 473.0357142857143 288.0 488.80357142857144 332.0 504.57142857142856 312.0 551.875 256.0 567.6428571428572 239.99999999999997 599.1785714285714 196.0 646.4821428571428 260.0 662.25 280.0 693.7857142857142 316.0 725.3214285714286 292.0 741.0892857142858 312.0 756.8571428571428 332.0 772.625 384.0 819.9285714285714 420.0 835.6964285714286 436.0 ' class='line2'/>
-<circle cx='0.0' cy='264.0' r='2.5' class='dataPoint2'/>
-<circle cx='15.767857142857142' cy='244.0' r='2.5' class='dataPoint2'/>
-<circle cx='31.535714285714285' cy='264.0' r='2.5' class='dataPoint2'/>
-<circle cx='47.30357142857142' cy='284.0' r='2.5' class='dataPoint2'/>
-<circle cx='78.83928571428572' cy='324.0' r='2.5' class='dataPoint2'/>
-<circle cx='110.375' cy='344.0' r='2.5' class='dataPoint2'/>
-<circle cx='126.14285714285714' cy='320.0' r='2.5' class='dataPoint2'/>
-<circle cx='157.67857142857144' cy='360.0' r='2.5' class='dataPoint2'/>
-<circle cx='189.2142857142857' cy='392.0' r='2.5' class='dataPoint2'/>
-<circle cx='204.98214285714286' cy='412.0' r='2.5' class='dataPoint2'/>
-<circle cx='394.1964285714286' cy='392.0' r='2.5' class='dataPoint2'/>
-<circle cx='409.9642857142857' cy='412.0' r='2.5' class='dataPoint2'/>
-<circle cx='425.7321428571429' cy='360.0' r='2.5' class='dataPoint2'/>
-<circle cx='441.5' cy='376.0' r='2.5' class='dataPoint2'/>
-<circle cx='457.26785714285717' cy='328.0' r='2.5' class='dataPoint2'/>
-<circle cx='473.0357142857143' cy='288.0' r='2.5' class='dataPoint2'/>
-<circle cx='488.80357142857144' cy='332.0' r='2.5' class='dataPoint2'/>
-<circle cx='504.57142857142856' cy='312.0' r='2.5' class='dataPoint2'/>
-<circle cx='551.875' cy='256.0' r='2.5' class='dataPoint2'/>
-<circle cx='567.6428571428572' cy='239.99999999999997' r='2.5' class='dataPoint2'/>
-<circle cx='599.1785714285714' cy='196.0' r='2.5' class='dataPoint2'/>
-<circle cx='646.4821428571428' cy='260.0' r='2.5' class='dataPoint2'/>
-<circle cx='662.25' cy='280.0' r='2.5' class='dataPoint2'/>
-<circle cx='693.7857142857142' cy='316.0' r='2.5' class='dataPoint2'/>
-<circle cx='725.3214285714286' cy='292.0' r='2.5' class='dataPoint2'/>
-<circle cx='741.0892857142858' cy='312.0' r='2.5' class='dataPoint2'/>
-<circle cx='756.8571428571428' cy='332.0' r='2.5' class='dataPoint2'/>
-<circle cx='772.625' cy='384.0' r='2.5' class='dataPoint2'/>
-<circle cx='819.9285714285714' cy='420.0' r='2.5' class='dataPoint2'/>
-<circle cx='835.6964285714286' cy='436.0' r='2.5' class='dataPoint2'/>
-<path d='M0.0 264.0 L0.0 264.0 31.535714285714285 244.0 63.07142857142857 264.0 94.60714285714285 284.0 110.375 264.0 141.9107142857143 304.0 157.67857142857144 264.0 173.44642857142856 284.0 204.98214285714286 264.0 220.75 196.0 236.51785714285714 216.00000000000003 252.28571428571428 176.0 268.0535714285714 196.0 283.8214285714286 236.0 299.5892857142857 172.0 315.3571428571429 112.0 331.125 136.0 346.8928571428571 100.0 362.6607142857143 84.0 378.4285714285714 52.0 425.7321428571429 104.0 441.5 88.0 457.26785714285717 136.0 520.3392857142858 100.0 536.1071428571428 84.0 583.4107142857142 136.0 599.1785714285714 180.0 614.9464285714286 228.00000000000003 630.7142857142858 251.99999999999997 646.4821428571428 188.0 662.25 168.0 678.0178571428572 132.0 693.7857142857142 96.0 709.5535714285714 144.0 725.3214285714286 168.0 772.625 116.0 788.3928571428572 80.0 804.1607142857142 128.0 835.6964285714286 112.0 ' class='line3'/>
-<circle cx='0.0' cy='264.0' r='2.5' class='dataPoint3'/>
-<circle cx='31.535714285714285' cy='244.0' r='2.5' class='dataPoint3'/>
-<circle cx='63.07142857142857' cy='264.0' r='2.5' class='dataPoint3'/>
-<circle cx='94.60714285714285' cy='284.0' r='2.5' class='dataPoint3'/>
-<circle cx='110.375' cy='264.0' r='2.5' class='dataPoint3'/>
-<circle cx='141.9107142857143' cy='304.0' r='2.5' class='dataPoint3'/>
-<circle cx='157.67857142857144' cy='264.0' r='2.5' class='dataPoint3'/>
-<circle cx='173.44642857142856' cy='284.0' r='2.5' class='dataPoint3'/>
-<circle cx='204.98214285714286' cy='264.0' r='2.5' class='dataPoint3'/>
-<circle cx='220.75' cy='196.0' r='2.5' class='dataPoint3'/>
-<circle cx='236.51785714285714' cy='216.00000000000003' r='2.5' class='dataPoint3'/>
-<circle cx='252.28571428571428' cy='176.0' r='2.5' class='dataPoint3'/>
-<circle cx='268.0535714285714' cy='196.0' r='2.5' class='dataPoint3'/>
-<circle cx='283.8214285714286' cy='236.0' r='2.5' class='dataPoint3'/>
-<circle cx='299.5892857142857' cy='172.0' r='2.5' class='dataPoint3'/>
-<circle cx='315.3571428571429' cy='112.0' r='2.5' class='dataPoint3'/>
-<circle cx='331.125' cy='136.0' r='2.5' class='dataPoint3'/>
-<circle cx='346.8928571428571' cy='100.0' r='2.5' class='dataPoint3'/>
-<circle cx='362.6607142857143' cy='84.0' r='2.5' class='dataPoint3'/>
-<circle cx='378.4285714285714' cy='52.0' r='2.5' class='dataPoint3'/>
-<circle cx='425.7321428571429' cy='104.0' r='2.5' class='dataPoint3'/>
-<circle cx='441.5' cy='88.0' r='2.5' class='dataPoint3'/>
-<circle cx='457.26785714285717' cy='136.0' r='2.5' class='dataPoint3'/>
-<circle cx='520.3392857142858' cy='100.0' r='2.5' class='dataPoint3'/>
-<circle cx='536.1071428571428' cy='84.0' r='2.5' class='dataPoint3'/>
-<circle cx='583.4107142857142' cy='136.0' r='2.5' class='dataPoint3'/>
-<circle cx='599.1785714285714' cy='180.0' r='2.5' class='dataPoint3'/>
-<circle cx='614.9464285714286' cy='228.00000000000003' r='2.5' class='dataPoint3'/>
-<circle cx='630.7142857142858' cy='251.99999999999997' r='2.5' class='dataPoint3'/>
-<circle cx='646.4821428571428' cy='188.0' r='2.5' class='dataPoint3'/>
-<circle cx='662.25' cy='168.0' r='2.5' class='dataPoint3'/>
-<circle cx='678.0178571428572' cy='132.0' r='2.5' class='dataPoint3'/>
-<circle cx='693.7857142857142' cy='96.0' r='2.5' class='dataPoint3'/>
-<circle cx='709.5535714285714' cy='144.0' r='2.5' class='dataPoint3'/>
-<circle cx='725.3214285714286' cy='168.0' r='2.5' class='dataPoint3'/>
-<circle cx='772.625' cy='116.0' r='2.5' class='dataPoint3'/>
-<circle cx='788.3928571428572' cy='80.0' r='2.5' class='dataPoint3'/>
-<circle cx='804.1607142857142' cy='128.0' r='2.5' class='dataPoint3'/>
-<circle cx='835.6964285714286' cy='112.0' r='2.5' class='dataPoint3'/>
+<path d='M0.0 248.0 L0.0 248.0 14.015873015873016 268.0 42.047619047619044 248.0 56.06349206349206 228.00000000000003 70.07936507936509 188.0 84.09523809523809 168.0 112.12698412698413 192.0 126.14285714285715 152.0 154.17460317460316 132.0 168.19047619047618 100.0 196.22222222222223 168.0 210.23809523809524 148.0 224.25396825396825 188.0 238.26984126984127 168.0 252.2857142857143 128.0 266.30158730158735 192.0 280.31746031746036 251.99999999999997 294.33333333333337 228.00000000000003 308.3492063492063 264.0 322.36507936507934 280.0 336.38095238095235 312.0 350.3968253968254 332.0 364.41269841269843 312.0 420.4761904761905 352.0 434.49206349206355 308.0 448.5079365079365 328.0 462.5238095238096 364.0 476.53968253968253 380.0 490.55555555555554 436.0 504.5714285714286 452.0 518.5873015873016 400.0 546.6190476190476 352.0 560.6349206349207 328.0 602.6825396825398 364.0 630.7142857142858 316.0 658.7460317460318 296.0 672.7619047619047 276.0 700.7936507936508 312.0 714.8095238095239 264.0 728.8253968253969 228.00000000000003 770.8730158730159 244.0 ' class='line1'/>
+<circle cx='0.0' cy='248.0' r='2.5' class='dataPoint1'/>
+<circle cx='14.015873015873016' cy='268.0' r='2.5' class='dataPoint1'/>
+<circle cx='42.047619047619044' cy='248.0' r='2.5' class='dataPoint1'/>
+<circle cx='56.06349206349206' cy='228.00000000000003' r='2.5' class='dataPoint1'/>
+<circle cx='70.07936507936509' cy='188.0' r='2.5' class='dataPoint1'/>
+<circle cx='84.09523809523809' cy='168.0' r='2.5' class='dataPoint1'/>
+<circle cx='112.12698412698413' cy='192.0' r='2.5' class='dataPoint1'/>
+<circle cx='126.14285714285715' cy='152.0' r='2.5' class='dataPoint1'/>
+<circle cx='154.17460317460316' cy='132.0' r='2.5' class='dataPoint1'/>
+<circle cx='168.19047619047618' cy='100.0' r='2.5' class='dataPoint1'/>
+<circle cx='196.22222222222223' cy='168.0' r='2.5' class='dataPoint1'/>
+<circle cx='210.23809523809524' cy='148.0' r='2.5' class='dataPoint1'/>
+<circle cx='224.25396825396825' cy='188.0' r='2.5' class='dataPoint1'/>
+<circle cx='238.26984126984127' cy='168.0' r='2.5' class='dataPoint1'/>
+<circle cx='252.2857142857143' cy='128.0' r='2.5' class='dataPoint1'/>
+<circle cx='266.30158730158735' cy='192.0' r='2.5' class='dataPoint1'/>
+<circle cx='280.31746031746036' cy='251.99999999999997' r='2.5' class='dataPoint1'/>
+<circle cx='294.33333333333337' cy='228.00000000000003' r='2.5' class='dataPoint1'/>
+<circle cx='308.3492063492063' cy='264.0' r='2.5' class='dataPoint1'/>
+<circle cx='322.36507936507934' cy='280.0' r='2.5' class='dataPoint1'/>
+<circle cx='336.38095238095235' cy='312.0' r='2.5' class='dataPoint1'/>
+<circle cx='350.3968253968254' cy='332.0' r='2.5' class='dataPoint1'/>
+<circle cx='364.41269841269843' cy='312.0' r='2.5' class='dataPoint1'/>
+<circle cx='420.4761904761905' cy='352.0' r='2.5' class='dataPoint1'/>
+<circle cx='434.49206349206355' cy='308.0' r='2.5' class='dataPoint1'/>
+<circle cx='448.5079365079365' cy='328.0' r='2.5' class='dataPoint1'/>
+<circle cx='462.5238095238096' cy='364.0' r='2.5' class='dataPoint1'/>
+<circle cx='476.53968253968253' cy='380.0' r='2.5' class='dataPoint1'/>
+<circle cx='490.55555555555554' cy='436.0' r='2.5' class='dataPoint1'/>
+<circle cx='504.5714285714286' cy='452.0' r='2.5' class='dataPoint1'/>
+<circle cx='518.5873015873016' cy='400.0' r='2.5' class='dataPoint1'/>
+<circle cx='546.6190476190476' cy='352.0' r='2.5' class='dataPoint1'/>
+<circle cx='560.6349206349207' cy='328.0' r='2.5' class='dataPoint1'/>
+<circle cx='602.6825396825398' cy='364.0' r='2.5' class='dataPoint1'/>
+<circle cx='630.7142857142858' cy='316.0' r='2.5' class='dataPoint1'/>
+<circle cx='658.7460317460318' cy='296.0' r='2.5' class='dataPoint1'/>
+<circle cx='672.7619047619047' cy='276.0' r='2.5' class='dataPoint1'/>
+<circle cx='700.7936507936508' cy='312.0' r='2.5' class='dataPoint1'/>
+<circle cx='714.8095238095239' cy='264.0' r='2.5' class='dataPoint1'/>
+<circle cx='728.8253968253969' cy='228.00000000000003' r='2.5' class='dataPoint1'/>
+<circle cx='770.8730158730159' cy='244.0' r='2.5' class='dataPoint1'/>
+<path d='M0.0 248.0 L0.0 248.0 14.015873015873016 228.00000000000003 28.03174603174603 248.0 42.047619047619044 268.0 70.07936507936509 308.0 98.11111111111111 328.0 112.12698412698413 304.0 140.15873015873018 344.0 168.19047619047618 376.0 182.20634920634922 396.0 350.3968253968254 376.0 364.41269841269843 396.0 378.42857142857144 344.0 392.44444444444446 360.0 406.4603174603175 312.0 420.4761904761905 272.0 434.49206349206355 316.0 448.5079365079365 296.0 490.55555555555554 239.99999999999997 504.5714285714286 224.0 532.6031746031747 180.0 574.6507936507936 244.0 588.6666666666667 264.0 616.6984126984127 300.0 644.7301587301587 276.0 658.7460317460318 296.0 672.7619047619047 316.0 686.7777777777778 368.0 728.8253968253969 404.0 742.8412698412699 420.0 756.8571428571429 468.0 ' class='line2'/>
+<circle cx='0.0' cy='248.0' r='2.5' class='dataPoint2'/>
+<circle cx='14.015873015873016' cy='228.00000000000003' r='2.5' class='dataPoint2'/>
+<circle cx='28.03174603174603' cy='248.0' r='2.5' class='dataPoint2'/>
+<circle cx='42.047619047619044' cy='268.0' r='2.5' class='dataPoint2'/>
+<circle cx='70.07936507936509' cy='308.0' r='2.5' class='dataPoint2'/>
+<circle cx='98.11111111111111' cy='328.0' r='2.5' class='dataPoint2'/>
+<circle cx='112.12698412698413' cy='304.0' r='2.5' class='dataPoint2'/>
+<circle cx='140.15873015873018' cy='344.0' r='2.5' class='dataPoint2'/>
+<circle cx='168.19047619047618' cy='376.0' r='2.5' class='dataPoint2'/>
+<circle cx='182.20634920634922' cy='396.0' r='2.5' class='dataPoint2'/>
+<circle cx='350.3968253968254' cy='376.0' r='2.5' class='dataPoint2'/>
+<circle cx='364.41269841269843' cy='396.0' r='2.5' class='dataPoint2'/>
+<circle cx='378.42857142857144' cy='344.0' r='2.5' class='dataPoint2'/>
+<circle cx='392.44444444444446' cy='360.0' r='2.5' class='dataPoint2'/>
+<circle cx='406.4603174603175' cy='312.0' r='2.5' class='dataPoint2'/>
+<circle cx='420.4761904761905' cy='272.0' r='2.5' class='dataPoint2'/>
+<circle cx='434.49206349206355' cy='316.0' r='2.5' class='dataPoint2'/>
+<circle cx='448.5079365079365' cy='296.0' r='2.5' class='dataPoint2'/>
+<circle cx='490.55555555555554' cy='239.99999999999997' r='2.5' class='dataPoint2'/>
+<circle cx='504.5714285714286' cy='224.0' r='2.5' class='dataPoint2'/>
+<circle cx='532.6031746031747' cy='180.0' r='2.5' class='dataPoint2'/>
+<circle cx='574.6507936507936' cy='244.0' r='2.5' class='dataPoint2'/>
+<circle cx='588.6666666666667' cy='264.0' r='2.5' class='dataPoint2'/>
+<circle cx='616.6984126984127' cy='300.0' r='2.5' class='dataPoint2'/>
+<circle cx='644.7301587301587' cy='276.0' r='2.5' class='dataPoint2'/>
+<circle cx='658.7460317460318' cy='296.0' r='2.5' class='dataPoint2'/>
+<circle cx='672.7619047619047' cy='316.0' r='2.5' class='dataPoint2'/>
+<circle cx='686.7777777777778' cy='368.0' r='2.5' class='dataPoint2'/>
+<circle cx='728.8253968253969' cy='404.0' r='2.5' class='dataPoint2'/>
+<circle cx='742.8412698412699' cy='420.0' r='2.5' class='dataPoint2'/>
+<circle cx='756.8571428571429' cy='468.0' r='2.5' class='dataPoint2'/>
+<path d='M0.0 248.0 L0.0 248.0 28.03174603174603 228.00000000000003 56.06349206349206 248.0 84.09523809523809 268.0 98.11111111111111 248.0 126.14285714285715 288.0 140.15873015873018 248.0 154.17460317460316 268.0 182.20634920634922 248.0 196.22222222222223 180.0 210.23809523809524 200.0 224.25396825396825 160.0 238.26984126984127 180.0 252.2857142857143 220.0 266.30158730158735 156.0 280.31746031746036 96.0 294.33333333333337 120.0 308.3492063492063 84.0 322.36507936507934 68.0 336.38095238095235 35.99999999999994 378.42857142857144 88.0 392.44444444444446 72.0 406.4603174603175 120.0 462.5238095238096 84.0 476.53968253968253 68.0 518.5873015873016 120.0 532.6031746031747 164.0 546.6190476190476 212.0 560.6349206349207 236.0 574.6507936507936 172.0 588.6666666666667 152.0 602.6825396825398 116.0 616.6984126984127 80.0 630.7142857142858 128.0 644.7301587301587 152.0 686.7777777777778 100.0 700.7936507936508 64.0 714.8095238095239 112.0 742.8412698412699 96.0 756.8571428571429 48.0 770.8730158730159 32.0 ' class='line3'/>
+<circle cx='0.0' cy='248.0' r='2.5' class='dataPoint3'/>
+<circle cx='28.03174603174603' cy='228.00000000000003' r='2.5' class='dataPoint3'/>
+<circle cx='56.06349206349206' cy='248.0' r='2.5' class='dataPoint3'/>
+<circle cx='84.09523809523809' cy='268.0' r='2.5' class='dataPoint3'/>
+<circle cx='98.11111111111111' cy='248.0' r='2.5' class='dataPoint3'/>
+<circle cx='126.14285714285715' cy='288.0' r='2.5' class='dataPoint3'/>
+<circle cx='140.15873015873018' cy='248.0' r='2.5' class='dataPoint3'/>
+<circle cx='154.17460317460316' cy='268.0' r='2.5' class='dataPoint3'/>
+<circle cx='182.20634920634922' cy='248.0' r='2.5' class='dataPoint3'/>
+<circle cx='196.22222222222223' cy='180.0' r='2.5' class='dataPoint3'/>
+<circle cx='210.23809523809524' cy='200.0' r='2.5' class='dataPoint3'/>
+<circle cx='224.25396825396825' cy='160.0' r='2.5' class='dataPoint3'/>
+<circle cx='238.26984126984127' cy='180.0' r='2.5' class='dataPoint3'/>
+<circle cx='252.2857142857143' cy='220.0' r='2.5' class='dataPoint3'/>
+<circle cx='266.30158730158735' cy='156.0' r='2.5' class='dataPoint3'/>
+<circle cx='280.31746031746036' cy='96.0' r='2.5' class='dataPoint3'/>
+<circle cx='294.33333333333337' cy='120.0' r='2.5' class='dataPoint3'/>
+<circle cx='308.3492063492063' cy='84.0' r='2.5' class='dataPoint3'/>
+<circle cx='322.36507936507934' cy='68.0' r='2.5' class='dataPoint3'/>
+<circle cx='336.38095238095235' cy='35.99999999999994' r='2.5' class='dataPoint3'/>
+<circle cx='378.42857142857144' cy='88.0' r='2.5' class='dataPoint3'/>
+<circle cx='392.44444444444446' cy='72.0' r='2.5' class='dataPoint3'/>
+<circle cx='406.4603174603175' cy='120.0' r='2.5' class='dataPoint3'/>
+<circle cx='462.5238095238096' cy='84.0' r='2.5' class='dataPoint3'/>
+<circle cx='476.53968253968253' cy='68.0' r='2.5' class='dataPoint3'/>
+<circle cx='518.5873015873016' cy='120.0' r='2.5' class='dataPoint3'/>
+<circle cx='532.6031746031747' cy='164.0' r='2.5' class='dataPoint3'/>
+<circle cx='546.6190476190476' cy='212.0' r='2.5' class='dataPoint3'/>
+<circle cx='560.6349206349207' cy='236.0' r='2.5' class='dataPoint3'/>
+<circle cx='574.6507936507936' cy='172.0' r='2.5' class='dataPoint3'/>
+<circle cx='588.6666666666667' cy='152.0' r='2.5' class='dataPoint3'/>
+<circle cx='602.6825396825398' cy='116.0' r='2.5' class='dataPoint3'/>
+<circle cx='616.6984126984127' cy='80.0' r='2.5' class='dataPoint3'/>
+<circle cx='630.7142857142858' cy='128.0' r='2.5' class='dataPoint3'/>
+<circle cx='644.7301587301587' cy='152.0' r='2.5' class='dataPoint3'/>
+<circle cx='686.7777777777778' cy='100.0' r='2.5' class='dataPoint3'/>
+<circle cx='700.7936507936508' cy='64.0' r='2.5' class='dataPoint3'/>
+<circle cx='714.8095238095239' cy='112.0' r='2.5' class='dataPoint3'/>
+<circle cx='742.8412698412699' cy='96.0' r='2.5' class='dataPoint3'/>
+<circle cx='756.8571428571429' cy='48.0' r='2.5' class='dataPoint3'/>
+<circle cx='770.8730158730159' cy='32.0' r='2.5' class='dataPoint3'/>
 <g>
-<text x='0.0' y='258.0' class='dataPointLabelBackground' style='text-anchor: start;'>
+<text x='0.0' y='242.0' class='dataPointLabelBackground' style='text-anchor: start;'>
 1200
 </text>
-<text x='0.0' y='258.0' class='dataPointLabel' style='text-anchor: start;'>
+<text x='0.0' y='242.0' class='dataPointLabel' style='text-anchor: start;'>
 1200
 </text>
 <a xlink:href=''>
-<circle cx='0.0' cy='264.0' r='10' style='opacity: 0'/>
+<circle cx='0.0' cy='248.0' r='10' style='opacity: 0'/>
 </a>
-<text x='15.767857142857142' y='278.0' class='dataPointLabelBackground' style='text-anchor: start;'>
+<text x='14.015873015873016' y='262.0' class='dataPointLabelBackground' style='text-anchor: start;'>
 1195
 </text>
-<text x='15.767857142857142' y='278.0' class='dataPointLabel' style='text-anchor: start;'>
+<text x='14.015873015873016' y='262.0' class='dataPointLabel' style='text-anchor: start;'>
 1195
 </text>
 <a xlink:href=''>
-<circle cx='15.767857142857142' cy='284.0' r='10' style='opacity: 0'/>
+<circle cx='14.015873015873016' cy='268.0' r='10' style='opacity: 0'/>
 </a>
-<text x='47.30357142857142' y='258.0' class='dataPointLabelBackground'>
+<text x='42.047619047619044' y='242.0' class='dataPointLabelBackground'>
 1200
 </text>
-<text x='47.30357142857142' y='258.0' class='dataPointLabel'>
+<text x='42.047619047619044' y='242.0' class='dataPointLabel'>
 1200
 </text>
 <a xlink:href=''>
-<circle cx='47.30357142857142' cy='264.0' r='10' style='opacity: 0'/>
+<circle cx='42.047619047619044' cy='248.0' r='10' style='opacity: 0'/>
 </a>
-<text x='63.07142857142857' y='238.0' class='dataPointLabelBackground'>
+<text x='56.06349206349206' y='222.00000000000003' class='dataPointLabelBackground'>
 1205
 </text>
-<text x='63.07142857142857' y='238.0' class='dataPointLabel'>
+<text x='56.06349206349206' y='222.00000000000003' class='dataPointLabel'>
 1205
 </text>
 <a xlink:href=''>
-<circle cx='63.07142857142857' cy='244.0' r='10' style='opacity: 0'/>
+<circle cx='56.06349206349206' cy='228.00000000000003' r='10' style='opacity: 0'/>
 </a>
-<text x='78.83928571428572' y='198.0' class='dataPointLabelBackground'>
+<text x='70.07936507936509' y='182.0' class='dataPointLabelBackground'>
 1215
 </text>
-<text x='78.83928571428572' y='198.0' class='dataPointLabel'>
+<text x='70.07936507936509' y='182.0' class='dataPointLabel'>
 1215
 </text>
 <a xlink:href=''>
-<circle cx='78.83928571428572' cy='204.0' r='10' style='opacity: 0'/>
+<circle cx='70.07936507936509' cy='188.0' r='10' style='opacity: 0'/>
 </a>
-<text x='94.60714285714285' y='178.0' class='dataPointLabelBackground'>
+<text x='84.09523809523809' y='162.0' class='dataPointLabelBackground'>
 1220
 </text>
-<text x='94.60714285714285' y='178.0' class='dataPointLabel'>
+<text x='84.09523809523809' y='162.0' class='dataPointLabel'>
 1220
 </text>
 <a xlink:href=''>
-<circle cx='94.60714285714285' cy='184.0' r='10' style='opacity: 0'/>
+<circle cx='84.09523809523809' cy='168.0' r='10' style='opacity: 0'/>
 </a>
-<text x='126.14285714285714' y='202.0' class='dataPointLabelBackground'>
+<text x='112.12698412698413' y='186.0' class='dataPointLabelBackground'>
 1214
 </text>
-<text x='126.14285714285714' y='202.0' class='dataPointLabel'>
+<text x='112.12698412698413' y='186.0' class='dataPointLabel'>
 1214
 </text>
 <a xlink:href=''>
-<circle cx='126.14285714285714' cy='208.0' r='10' style='opacity: 0'/>
+<circle cx='112.12698412698413' cy='192.0' r='10' style='opacity: 0'/>
 </a>
-<text x='141.9107142857143' y='162.0' class='dataPointLabelBackground'>
+<text x='126.14285714285715' y='146.0' class='dataPointLabelBackground'>
 1224
 </text>
-<text x='141.9107142857143' y='162.0' class='dataPointLabel'>
+<text x='126.14285714285715' y='146.0' class='dataPointLabel'>
 1224
 </text>
 <a xlink:href=''>
-<circle cx='141.9107142857143' cy='168.0' r='10' style='opacity: 0'/>
+<circle cx='126.14285714285715' cy='152.0' r='10' style='opacity: 0'/>
 </a>
-<text x='173.44642857142856' y='142.0' class='dataPointLabelBackground'>
+<text x='154.17460317460316' y='126.0' class='dataPointLabelBackground'>
 1229
 </text>
-<text x='173.44642857142856' y='142.0' class='dataPointLabel'>
+<text x='154.17460317460316' y='126.0' class='dataPointLabel'>
 1229
 </text>
 <a xlink:href=''>
-<circle cx='173.44642857142856' cy='148.0' r='10' style='opacity: 0'/>
+<circle cx='154.17460317460316' cy='132.0' r='10' style='opacity: 0'/>
 </a>
-<text x='189.2142857142857' y='110.0' class='dataPointLabelBackground'>
+<text x='168.19047619047618' y='94.0' class='dataPointLabelBackground'>
 1237
 </text>
-<text x='189.2142857142857' y='110.0' class='dataPointLabel'>
+<text x='168.19047619047618' y='94.0' class='dataPointLabel'>
 1237
 </text>
 <a xlink:href=''>
-<circle cx='189.2142857142857' cy='116.0' r='10' style='opacity: 0'/>
+<circle cx='168.19047619047618' cy='100.0' r='10' style='opacity: 0'/>
 </a>
-<text x='220.75' y='178.0' class='dataPointLabelBackground'>
+<text x='196.22222222222223' y='162.0' class='dataPointLabelBackground'>
 1220
 </text>
-<text x='220.75' y='178.0' class='dataPointLabel'>
+<text x='196.22222222222223' y='162.0' class='dataPointLabel'>
 1220
 </text>
 <a xlink:href=''>
-<circle cx='220.75' cy='184.0' r='10' style='opacity: 0'/>
+<circle cx='196.22222222222223' cy='168.0' r='10' style='opacity: 0'/>
 </a>
-<text x='236.51785714285714' y='158.0' class='dataPointLabelBackground'>
+<text x='210.23809523809524' y='142.0' class='dataPointLabelBackground'>
 1225
 </text>
-<text x='236.51785714285714' y='158.0' class='dataPointLabel'>
+<text x='210.23809523809524' y='142.0' class='dataPointLabel'>
 1225
 </text>
 <a xlink:href=''>
-<circle cx='236.51785714285714' cy='164.0' r='10' style='opacity: 0'/>
+<circle cx='210.23809523809524' cy='148.0' r='10' style='opacity: 0'/>
 </a>
-<text x='252.28571428571428' y='198.0' class='dataPointLabelBackground'>
+<text x='224.25396825396825' y='182.0' class='dataPointLabelBackground'>
 1215
 </text>
-<text x='252.28571428571428' y='198.0' class='dataPointLabel'>
+<text x='224.25396825396825' y='182.0' class='dataPointLabel'>
 1215
 </text>
 <a xlink:href=''>
-<circle cx='252.28571428571428' cy='204.0' r='10' style='opacity: 0'/>
+<circle cx='224.25396825396825' cy='188.0' r='10' style='opacity: 0'/>
 </a>
-<text x='268.0535714285714' y='178.0' class='dataPointLabelBackground'>
+<text x='238.26984126984127' y='162.0' class='dataPointLabelBackground'>
 1220
 </text>
-<text x='268.0535714285714' y='178.0' class='dataPointLabel'>
+<text x='238.26984126984127' y='162.0' class='dataPointLabel'>
 1220
 </text>
 <a xlink:href=''>
-<circle cx='268.0535714285714' cy='184.0' r='10' style='opacity: 0'/>
+<circle cx='238.26984126984127' cy='168.0' r='10' style='opacity: 0'/>
 </a>
-<text x='283.8214285714286' y='138.0' class='dataPointLabelBackground'>
+<text x='252.2857142857143' y='122.0' class='dataPointLabelBackground'>
 1230
 </text>
-<text x='283.8214285714286' y='138.0' class='dataPointLabel'>
+<text x='252.2857142857143' y='122.0' class='dataPointLabel'>
 1230
 </text>
 <a xlink:href=''>
-<circle cx='283.8214285714286' cy='144.0' r='10' style='opacity: 0'/>
+<circle cx='252.2857142857143' cy='128.0' r='10' style='opacity: 0'/>
 </a>
-<text x='299.5892857142857' y='202.0' class='dataPointLabelBackground'>
+<text x='266.30158730158735' y='186.0' class='dataPointLabelBackground'>
 1214
 </text>
-<text x='299.5892857142857' y='202.0' class='dataPointLabel'>
+<text x='266.30158730158735' y='186.0' class='dataPointLabel'>
 1214
 </text>
 <a xlink:href=''>
-<circle cx='299.5892857142857' cy='208.0' r='10' style='opacity: 0'/>
+<circle cx='266.30158730158735' cy='192.0' r='10' style='opacity: 0'/>
 </a>
-<text x='315.3571428571429' y='262.0' class='dataPointLabelBackground'>
+<text x='280.31746031746036' y='245.99999999999997' class='dataPointLabelBackground'>
 1199
 </text>
-<text x='315.3571428571429' y='262.0' class='dataPointLabel'>
+<text x='280.31746031746036' y='245.99999999999997' class='dataPointLabel'>
 1199
 </text>
 <a xlink:href=''>
-<circle cx='315.3571428571429' cy='268.0' r='10' style='opacity: 0'/>
+<circle cx='280.31746031746036' cy='251.99999999999997' r='10' style='opacity: 0'/>
 </a>
-<text x='331.125' y='238.0' class='dataPointLabelBackground'>
+<text x='294.33333333333337' y='222.00000000000003' class='dataPointLabelBackground'>
 1205
 </text>
-<text x='331.125' y='238.0' class='dataPointLabel'>
+<text x='294.33333333333337' y='222.00000000000003' class='dataPointLabel'>
 1205
 </text>
 <a xlink:href=''>
-<circle cx='331.125' cy='244.0' r='10' style='opacity: 0'/>
+<circle cx='294.33333333333337' cy='228.00000000000003' r='10' style='opacity: 0'/>
 </a>
-<text x='346.8928571428571' y='274.0' class='dataPointLabelBackground'>
+<text x='308.3492063492063' y='258.0' class='dataPointLabelBackground'>
 1196
 </text>
-<text x='346.8928571428571' y='274.0' class='dataPointLabel'>
+<text x='308.3492063492063' y='258.0' class='dataPointLabel'>
 1196
 </text>
 <a xlink:href=''>
-<circle cx='346.8928571428571' cy='280.0' r='10' style='opacity: 0'/>
+<circle cx='308.3492063492063' cy='264.0' r='10' style='opacity: 0'/>
 </a>
-<text x='362.6607142857143' y='290.0' class='dataPointLabelBackground'>
+<text x='322.36507936507934' y='274.0' class='dataPointLabelBackground'>
 1192
 </text>
-<text x='362.6607142857143' y='290.0' class='dataPointLabel'>
+<text x='322.36507936507934' y='274.0' class='dataPointLabel'>
 1192
 </text>
 <a xlink:href=''>
-<circle cx='362.6607142857143' cy='296.0' r='10' style='opacity: 0'/>
+<circle cx='322.36507936507934' cy='280.0' r='10' style='opacity: 0'/>
 </a>
-<text x='378.4285714285714' y='322.0' class='dataPointLabelBackground'>
+<text x='336.38095238095235' y='306.0' class='dataPointLabelBackground'>
 1184
 </text>
-<text x='378.4285714285714' y='322.0' class='dataPointLabel'>
+<text x='336.38095238095235' y='306.0' class='dataPointLabel'>
 1184
 </text>
 <a xlink:href=''>
-<circle cx='378.4285714285714' cy='328.0' r='10' style='opacity: 0'/>
+<circle cx='336.38095238095235' cy='312.0' r='10' style='opacity: 0'/>
 </a>
-<text x='394.1964285714286' y='342.0' class='dataPointLabelBackground'>
+<text x='350.3968253968254' y='326.0' class='dataPointLabelBackground'>
 1179
 </text>
-<text x='394.1964285714286' y='342.0' class='dataPointLabel'>
+<text x='350.3968253968254' y='326.0' class='dataPointLabel'>
 1179
 </text>
 <a xlink:href=''>
-<circle cx='394.1964285714286' cy='348.0' r='10' style='opacity: 0'/>
+<circle cx='350.3968253968254' cy='332.0' r='10' style='opacity: 0'/>
 </a>
-<text x='409.9642857142857' y='322.0' class='dataPointLabelBackground'>
+<text x='364.41269841269843' y='306.0' class='dataPointLabelBackground'>
 1184
 </text>
-<text x='409.9642857142857' y='322.0' class='dataPointLabel'>
+<text x='364.41269841269843' y='306.0' class='dataPointLabel'>
 1184
 </text>
 <a xlink:href=''>
-<circle cx='409.9642857142857' cy='328.0' r='10' style='opacity: 0'/>
+<circle cx='364.41269841269843' cy='312.0' r='10' style='opacity: 0'/>
 </a>
-<text x='473.0357142857143' y='362.0' class='dataPointLabelBackground'>
+<text x='420.4761904761905' y='346.0' class='dataPointLabelBackground'>
 1174
 </text>
-<text x='473.0357142857143' y='362.0' class='dataPointLabel'>
+<text x='420.4761904761905' y='346.0' class='dataPointLabel'>
 1174
 </text>
 <a xlink:href=''>
-<circle cx='473.0357142857143' cy='368.0' r='10' style='opacity: 0'/>
+<circle cx='420.4761904761905' cy='352.0' r='10' style='opacity: 0'/>
 </a>
-<text x='488.80357142857144' y='318.0' class='dataPointLabelBackground'>
+<text x='434.49206349206355' y='302.0' class='dataPointLabelBackground'>
 1185
 </text>
-<text x='488.80357142857144' y='318.0' class='dataPointLabel'>
+<text x='434.49206349206355' y='302.0' class='dataPointLabel'>
 1185
 </text>
 <a xlink:href=''>
-<circle cx='488.80357142857144' cy='324.0' r='10' style='opacity: 0'/>
+<circle cx='434.49206349206355' cy='308.0' r='10' style='opacity: 0'/>
 </a>
-<text x='504.57142857142856' y='338.0' class='dataPointLabelBackground'>
+<text x='448.5079365079365' y='322.0' class='dataPointLabelBackground'>
 1180
 </text>
-<text x='504.57142857142856' y='338.0' class='dataPointLabel'>
+<text x='448.5079365079365' y='322.0' class='dataPointLabel'>
 1180
 </text>
 <a xlink:href=''>
-<circle cx='504.57142857142856' cy='344.0' r='10' style='opacity: 0'/>
+<circle cx='448.5079365079365' cy='328.0' r='10' style='opacity: 0'/>
 </a>
-<text x='520.3392857142858' y='374.0' class='dataPointLabelBackground'>
+<text x='462.5238095238096' y='358.0' class='dataPointLabelBackground'>
 1171
 </text>
-<text x='520.3392857142858' y='374.0' class='dataPointLabel'>
+<text x='462.5238095238096' y='358.0' class='dataPointLabel'>
 1171
 </text>
 <a xlink:href=''>
-<circle cx='520.3392857142858' cy='380.0' r='10' style='opacity: 0'/>
+<circle cx='462.5238095238096' cy='364.0' r='10' style='opacity: 0'/>
 </a>
-<text x='536.1071428571428' y='390.0' class='dataPointLabelBackground'>
+<text x='476.53968253968253' y='374.0' class='dataPointLabelBackground'>
 1167
 </text>
-<text x='536.1071428571428' y='390.0' class='dataPointLabel'>
+<text x='476.53968253968253' y='374.0' class='dataPointLabel'>
 1167
 </text>
 <a xlink:href=''>
-<circle cx='536.1071428571428' cy='396.0' r='10' style='opacity: 0'/>
+<circle cx='476.53968253968253' cy='380.0' r='10' style='opacity: 0'/>
 </a>
-<text x='551.875' y='446.0' class='dataPointLabelBackground'>
+<text x='490.55555555555554' y='430.0' class='dataPointLabelBackground'>
 1153
 </text>
-<text x='551.875' y='446.0' class='dataPointLabel'>
+<text x='490.55555555555554' y='430.0' class='dataPointLabel'>
 1153
 </text>
 <a xlink:href=''>
-<circle cx='551.875' cy='452.0' r='10' style='opacity: 0'/>
+<circle cx='490.55555555555554' cy='436.0' r='10' style='opacity: 0'/>
 </a>
-<text x='567.6428571428572' y='462.0' class='dataPointLabelBackground'>
+<text x='504.5714285714286' y='446.0' class='dataPointLabelBackground'>
 1149
 </text>
-<text x='567.6428571428572' y='462.0' class='dataPointLabel'>
+<text x='504.5714285714286' y='446.0' class='dataPointLabel'>
 1149
 </text>
 <a xlink:href=''>
-<circle cx='567.6428571428572' cy='468.0' r='10' style='opacity: 0'/>
+<circle cx='504.5714285714286' cy='452.0' r='10' style='opacity: 0'/>
 </a>
-<text x='583.4107142857142' y='410.0' class='dataPointLabelBackground'>
+<text x='518.5873015873016' y='394.0' class='dataPointLabelBackground'>
 1162
 </text>
-<text x='583.4107142857142' y='410.0' class='dataPointLabel'>
+<text x='518.5873015873016' y='394.0' class='dataPointLabel'>
 1162
 </text>
 <a xlink:href=''>
-<circle cx='583.4107142857142' cy='416.0' r='10' style='opacity: 0'/>
+<circle cx='518.5873015873016' cy='400.0' r='10' style='opacity: 0'/>
 </a>
-<text x='614.9464285714286' y='362.0' class='dataPointLabelBackground'>
+<text x='546.6190476190476' y='346.0' class='dataPointLabelBackground'>
 1174
 </text>
-<text x='614.9464285714286' y='362.0' class='dataPointLabel'>
+<text x='546.6190476190476' y='346.0' class='dataPointLabel'>
 1174
 </text>
 <a xlink:href=''>
-<circle cx='614.9464285714286' cy='368.0' r='10' style='opacity: 0'/>
+<circle cx='546.6190476190476' cy='352.0' r='10' style='opacity: 0'/>
 </a>
-<text x='630.7142857142858' y='338.0' class='dataPointLabelBackground'>
+<text x='560.6349206349207' y='322.0' class='dataPointLabelBackground'>
 1180
 </text>
-<text x='630.7142857142858' y='338.0' class='dataPointLabel'>
+<text x='560.6349206349207' y='322.0' class='dataPointLabel'>
 1180
 </text>
 <a xlink:href=''>
-<circle cx='630.7142857142858' cy='344.0' r='10' style='opacity: 0'/>
+<circle cx='560.6349206349207' cy='328.0' r='10' style='opacity: 0'/>
 </a>
-<text x='678.0178571428572' y='374.0' class='dataPointLabelBackground'>
+<text x='602.6825396825398' y='358.0' class='dataPointLabelBackground'>
 1171
 </text>
-<text x='678.0178571428572' y='374.0' class='dataPointLabel'>
+<text x='602.6825396825398' y='358.0' class='dataPointLabel'>
 1171
 </text>
 <a xlink:href=''>
-<circle cx='678.0178571428572' cy='380.0' r='10' style='opacity: 0'/>
+<circle cx='602.6825396825398' cy='364.0' r='10' style='opacity: 0'/>
 </a>
-<text x='709.5535714285714' y='326.0' class='dataPointLabelBackground'>
+<text x='630.7142857142858' y='310.0' class='dataPointLabelBackground'>
 1183
 </text>
-<text x='709.5535714285714' y='326.0' class='dataPointLabel'>
+<text x='630.7142857142858' y='310.0' class='dataPointLabel'>
 1183
 </text>
 <a xlink:href=''>
-<circle cx='709.5535714285714' cy='332.0' r='10' style='opacity: 0'/>
+<circle cx='630.7142857142858' cy='316.0' r='10' style='opacity: 0'/>
 </a>
-<text x='741.0892857142858' y='306.0' class='dataPointLabelBackground'>
+<text x='658.7460317460318' y='290.0' class='dataPointLabelBackground'>
 1188
 </text>
-<text x='741.0892857142858' y='306.0' class='dataPointLabel'>
+<text x='658.7460317460318' y='290.0' class='dataPointLabel'>
 1188
 </text>
 <a xlink:href=''>
-<circle cx='741.0892857142858' cy='312.0' r='10' style='opacity: 0'/>
+<circle cx='658.7460317460318' cy='296.0' r='10' style='opacity: 0'/>
 </a>
-<text x='756.8571428571428' y='286.0' class='dataPointLabelBackground'>
+<text x='672.7619047619047' y='270.0' class='dataPointLabelBackground'>
 1193
 </text>
-<text x='756.8571428571428' y='286.0' class='dataPointLabel'>
+<text x='672.7619047619047' y='270.0' class='dataPointLabel'>
 1193
 </text>
 <a xlink:href=''>
-<circle cx='756.8571428571428' cy='292.0' r='10' style='opacity: 0'/>
+<circle cx='672.7619047619047' cy='276.0' r='10' style='opacity: 0'/>
 </a>
-<text x='788.3928571428572' y='322.0' class='dataPointLabelBackground'>
+<text x='700.7936507936508' y='306.0' class='dataPointLabelBackground'>
 1184
 </text>
-<text x='788.3928571428572' y='322.0' class='dataPointLabel'>
+<text x='700.7936507936508' y='306.0' class='dataPointLabel'>
 1184
 </text>
 <a xlink:href=''>
-<circle cx='788.3928571428572' cy='328.0' r='10' style='opacity: 0'/>
+<circle cx='700.7936507936508' cy='312.0' r='10' style='opacity: 0'/>
 </a>
-<text x='804.1607142857142' y='274.0' class='dataPointLabelBackground'>
+<text x='714.8095238095239' y='258.0' class='dataPointLabelBackground'>
 1196
 </text>
-<text x='804.1607142857142' y='274.0' class='dataPointLabel'>
+<text x='714.8095238095239' y='258.0' class='dataPointLabel'>
 1196
 </text>
 <a xlink:href=''>
-<circle cx='804.1607142857142' cy='280.0' r='10' style='opacity: 0'/>
+<circle cx='714.8095238095239' cy='264.0' r='10' style='opacity: 0'/>
 </a>
-<text x='819.9285714285714' y='238.0' class='dataPointLabelBackground'>
+<text x='728.8253968253969' y='222.00000000000003' class='dataPointLabelBackground'>
 1205
 </text>
-<text x='819.9285714285714' y='238.0' class='dataPointLabel'>
-1205
-</text>
-<a xlink:href=''>
-<circle cx='819.9285714285714' cy='244.0' r='10' style='opacity: 0'/>
-</a>
-<text x='0.0' y='258.0' class='dataPointLabelBackground' style='text-anchor: start;'>
-1200
-</text>
-<text x='0.0' y='258.0' class='dataPointLabel' style='text-anchor: start;'>
-1200
-</text>
-<a xlink:href=''>
-<circle cx='0.0' cy='264.0' r='10' style='opacity: 0'/>
-</a>
-<text x='15.767857142857142' y='238.0' class='dataPointLabelBackground' style='text-anchor: start;'>
-1205
-</text>
-<text x='15.767857142857142' y='238.0' class='dataPointLabel' style='text-anchor: start;'>
+<text x='728.8253968253969' y='222.00000000000003' class='dataPointLabel'>
 1205
 </text>
 <a xlink:href=''>
-<circle cx='15.767857142857142' cy='244.0' r='10' style='opacity: 0'/>
+<circle cx='728.8253968253969' cy='228.00000000000003' r='10' style='opacity: 0'/>
 </a>
-<text x='31.535714285714285' y='258.0' class='dataPointLabelBackground'>
-1200
-</text>
-<text x='31.535714285714285' y='258.0' class='dataPointLabel'>
-1200
-</text>
-<a xlink:href=''>
-<circle cx='31.535714285714285' cy='264.0' r='10' style='opacity: 0'/>
-</a>
-<text x='47.30357142857142' y='278.0' class='dataPointLabelBackground'>
-1195
-</text>
-<text x='47.30357142857142' y='278.0' class='dataPointLabel'>
-1195
-</text>
-<a xlink:href=''>
-<circle cx='47.30357142857142' cy='284.0' r='10' style='opacity: 0'/>
-</a>
-<text x='78.83928571428572' y='318.0' class='dataPointLabelBackground'>
-1185
-</text>
-<text x='78.83928571428572' y='318.0' class='dataPointLabel'>
-1185
-</text>
-<a xlink:href=''>
-<circle cx='78.83928571428572' cy='324.0' r='10' style='opacity: 0'/>
-</a>
-<text x='110.375' y='338.0' class='dataPointLabelBackground'>
-1180
-</text>
-<text x='110.375' y='338.0' class='dataPointLabel'>
-1180
-</text>
-<a xlink:href=''>
-<circle cx='110.375' cy='344.0' r='10' style='opacity: 0'/>
-</a>
-<text x='126.14285714285714' y='314.0' class='dataPointLabelBackground'>
-1186
-</text>
-<text x='126.14285714285714' y='314.0' class='dataPointLabel'>
-1186
-</text>
-<a xlink:href=''>
-<circle cx='126.14285714285714' cy='320.0' r='10' style='opacity: 0'/>
-</a>
-<text x='157.67857142857144' y='354.0' class='dataPointLabelBackground'>
-1176
-</text>
-<text x='157.67857142857144' y='354.0' class='dataPointLabel'>
-1176
-</text>
-<a xlink:href=''>
-<circle cx='157.67857142857144' cy='360.0' r='10' style='opacity: 0'/>
-</a>
-<text x='189.2142857142857' y='386.0' class='dataPointLabelBackground'>
-1168
-</text>
-<text x='189.2142857142857' y='386.0' class='dataPointLabel'>
-1168
-</text>
-<a xlink:href=''>
-<circle cx='189.2142857142857' cy='392.0' r='10' style='opacity: 0'/>
-</a>
-<text x='204.98214285714286' y='406.0' class='dataPointLabelBackground'>
-1163
-</text>
-<text x='204.98214285714286' y='406.0' class='dataPointLabel'>
-1163
-</text>
-<a xlink:href=''>
-<circle cx='204.98214285714286' cy='412.0' r='10' style='opacity: 0'/>
-</a>
-<text x='394.1964285714286' y='386.0' class='dataPointLabelBackground'>
-1168
-</text>
-<text x='394.1964285714286' y='386.0' class='dataPointLabel'>
-1168
-</text>
-<a xlink:href=''>
-<circle cx='394.1964285714286' cy='392.0' r='10' style='opacity: 0'/>
-</a>
-<text x='409.9642857142857' y='406.0' class='dataPointLabelBackground'>
-1163
-</text>
-<text x='409.9642857142857' y='406.0' class='dataPointLabel'>
-1163
-</text>
-<a xlink:href=''>
-<circle cx='409.9642857142857' cy='412.0' r='10' style='opacity: 0'/>
-</a>
-<text x='425.7321428571429' y='354.0' class='dataPointLabelBackground'>
-1176
-</text>
-<text x='425.7321428571429' y='354.0' class='dataPointLabel'>
-1176
-</text>
-<a xlink:href=''>
-<circle cx='425.7321428571429' cy='360.0' r='10' style='opacity: 0'/>
-</a>
-<text x='441.5' y='370.0' class='dataPointLabelBackground'>
-1172
-</text>
-<text x='441.5' y='370.0' class='dataPointLabel'>
-1172
-</text>
-<a xlink:href=''>
-<circle cx='441.5' cy='376.0' r='10' style='opacity: 0'/>
-</a>
-<text x='457.26785714285717' y='322.0' class='dataPointLabelBackground'>
-1184
-</text>
-<text x='457.26785714285717' y='322.0' class='dataPointLabel'>
-1184
-</text>
-<a xlink:href=''>
-<circle cx='457.26785714285717' cy='328.0' r='10' style='opacity: 0'/>
-</a>
-<text x='473.0357142857143' y='282.0' class='dataPointLabelBackground'>
-1194
-</text>
-<text x='473.0357142857143' y='282.0' class='dataPointLabel'>
-1194
-</text>
-<a xlink:href=''>
-<circle cx='473.0357142857143' cy='288.0' r='10' style='opacity: 0'/>
-</a>
-<text x='488.80357142857144' y='326.0' class='dataPointLabelBackground'>
-1183
-</text>
-<text x='488.80357142857144' y='326.0' class='dataPointLabel'>
-1183
-</text>
-<a xlink:href=''>
-<circle cx='488.80357142857144' cy='332.0' r='10' style='opacity: 0'/>
-</a>
-<text x='504.57142857142856' y='306.0' class='dataPointLabelBackground'>
-1188
-</text>
-<text x='504.57142857142856' y='306.0' class='dataPointLabel'>
-1188
-</text>
-<a xlink:href=''>
-<circle cx='504.57142857142856' cy='312.0' r='10' style='opacity: 0'/>
-</a>
-<text x='551.875' y='250.0' class='dataPointLabelBackground'>
-1202
-</text>
-<text x='551.875' y='250.0' class='dataPointLabel'>
-1202
-</text>
-<a xlink:href=''>
-<circle cx='551.875' cy='256.0' r='10' style='opacity: 0'/>
-</a>
-<text x='567.6428571428572' y='233.99999999999997' class='dataPointLabelBackground'>
-1206
-</text>
-<text x='567.6428571428572' y='233.99999999999997' class='dataPointLabel'>
-1206
-</text>
-<a xlink:href=''>
-<circle cx='567.6428571428572' cy='239.99999999999997' r='10' style='opacity: 0'/>
-</a>
-<text x='599.1785714285714' y='190.0' class='dataPointLabelBackground'>
-1217
-</text>
-<text x='599.1785714285714' y='190.0' class='dataPointLabel'>
-1217
-</text>
-<a xlink:href=''>
-<circle cx='599.1785714285714' cy='196.0' r='10' style='opacity: 0'/>
-</a>
-<text x='646.4821428571428' y='254.0' class='dataPointLabelBackground'>
+<text x='770.8730158730159' y='238.0' class='dataPointLabelBackground'>
 1201
 </text>
-<text x='646.4821428571428' y='254.0' class='dataPointLabel'>
+<text x='770.8730158730159' y='238.0' class='dataPointLabel'>
 1201
 </text>
 <a xlink:href=''>
-<circle cx='646.4821428571428' cy='260.0' r='10' style='opacity: 0'/>
+<circle cx='770.8730158730159' cy='244.0' r='10' style='opacity: 0'/>
 </a>
-<text x='662.25' y='274.0' class='dataPointLabelBackground'>
-1196
-</text>
-<text x='662.25' y='274.0' class='dataPointLabel'>
-1196
-</text>
-<a xlink:href=''>
-<circle cx='662.25' cy='280.0' r='10' style='opacity: 0'/>
-</a>
-<text x='693.7857142857142' y='310.0' class='dataPointLabelBackground'>
-1187
-</text>
-<text x='693.7857142857142' y='310.0' class='dataPointLabel'>
-1187
-</text>
-<a xlink:href=''>
-<circle cx='693.7857142857142' cy='316.0' r='10' style='opacity: 0'/>
-</a>
-<text x='725.3214285714286' y='286.0' class='dataPointLabelBackground'>
-1193
-</text>
-<text x='725.3214285714286' y='286.0' class='dataPointLabel'>
-1193
-</text>
-<a xlink:href=''>
-<circle cx='725.3214285714286' cy='292.0' r='10' style='opacity: 0'/>
-</a>
-<text x='741.0892857142858' y='306.0' class='dataPointLabelBackground'>
-1188
-</text>
-<text x='741.0892857142858' y='306.0' class='dataPointLabel'>
-1188
-</text>
-<a xlink:href=''>
-<circle cx='741.0892857142858' cy='312.0' r='10' style='opacity: 0'/>
-</a>
-<text x='756.8571428571428' y='326.0' class='dataPointLabelBackground'>
-1183
-</text>
-<text x='756.8571428571428' y='326.0' class='dataPointLabel'>
-1183
-</text>
-<a xlink:href=''>
-<circle cx='756.8571428571428' cy='332.0' r='10' style='opacity: 0'/>
-</a>
-<text x='772.625' y='378.0' class='dataPointLabelBackground'>
-1170
-</text>
-<text x='772.625' y='378.0' class='dataPointLabel'>
-1170
-</text>
-<a xlink:href=''>
-<circle cx='772.625' cy='384.0' r='10' style='opacity: 0'/>
-</a>
-<text x='819.9285714285714' y='414.0' class='dataPointLabelBackground'>
-1161
-</text>
-<text x='819.9285714285714' y='414.0' class='dataPointLabel'>
-1161
-</text>
-<a xlink:href=''>
-<circle cx='819.9285714285714' cy='420.0' r='10' style='opacity: 0'/>
-</a>
-<text x='835.6964285714286' y='430.0' class='dataPointLabelBackground'>
-1157
-</text>
-<text x='835.6964285714286' y='430.0' class='dataPointLabel'>
-1157
-</text>
-<a xlink:href=''>
-<circle cx='835.6964285714286' cy='436.0' r='10' style='opacity: 0'/>
-</a>
-<text x='0.0' y='258.0' class='dataPointLabelBackground' style='text-anchor: start;'>
+<text x='0.0' y='242.0' class='dataPointLabelBackground' style='text-anchor: start;'>
 1200
 </text>
-<text x='0.0' y='258.0' class='dataPointLabel' style='text-anchor: start;'>
+<text x='0.0' y='242.0' class='dataPointLabel' style='text-anchor: start;'>
 1200
 </text>
 <a xlink:href=''>
-<circle cx='0.0' cy='264.0' r='10' style='opacity: 0'/>
+<circle cx='0.0' cy='248.0' r='10' style='opacity: 0'/>
 </a>
-<text x='31.535714285714285' y='238.0' class='dataPointLabelBackground'>
+<text x='14.015873015873016' y='222.00000000000003' class='dataPointLabelBackground' style='text-anchor: start;'>
 1205
 </text>
-<text x='31.535714285714285' y='238.0' class='dataPointLabel'>
+<text x='14.015873015873016' y='222.00000000000003' class='dataPointLabel' style='text-anchor: start;'>
 1205
 </text>
 <a xlink:href=''>
-<circle cx='31.535714285714285' cy='244.0' r='10' style='opacity: 0'/>
+<circle cx='14.015873015873016' cy='228.00000000000003' r='10' style='opacity: 0'/>
 </a>
-<text x='63.07142857142857' y='258.0' class='dataPointLabelBackground'>
+<text x='28.03174603174603' y='242.0' class='dataPointLabelBackground'>
 1200
 </text>
-<text x='63.07142857142857' y='258.0' class='dataPointLabel'>
+<text x='28.03174603174603' y='242.0' class='dataPointLabel'>
 1200
 </text>
 <a xlink:href=''>
-<circle cx='63.07142857142857' cy='264.0' r='10' style='opacity: 0'/>
+<circle cx='28.03174603174603' cy='248.0' r='10' style='opacity: 0'/>
 </a>
-<text x='94.60714285714285' y='278.0' class='dataPointLabelBackground'>
+<text x='42.047619047619044' y='262.0' class='dataPointLabelBackground'>
 1195
 </text>
-<text x='94.60714285714285' y='278.0' class='dataPointLabel'>
+<text x='42.047619047619044' y='262.0' class='dataPointLabel'>
 1195
 </text>
 <a xlink:href=''>
-<circle cx='94.60714285714285' cy='284.0' r='10' style='opacity: 0'/>
+<circle cx='42.047619047619044' cy='268.0' r='10' style='opacity: 0'/>
 </a>
-<text x='110.375' y='258.0' class='dataPointLabelBackground'>
+<text x='70.07936507936509' y='302.0' class='dataPointLabelBackground'>
+1185
+</text>
+<text x='70.07936507936509' y='302.0' class='dataPointLabel'>
+1185
+</text>
+<a xlink:href=''>
+<circle cx='70.07936507936509' cy='308.0' r='10' style='opacity: 0'/>
+</a>
+<text x='98.11111111111111' y='322.0' class='dataPointLabelBackground'>
+1180
+</text>
+<text x='98.11111111111111' y='322.0' class='dataPointLabel'>
+1180
+</text>
+<a xlink:href=''>
+<circle cx='98.11111111111111' cy='328.0' r='10' style='opacity: 0'/>
+</a>
+<text x='112.12698412698413' y='298.0' class='dataPointLabelBackground'>
+1186
+</text>
+<text x='112.12698412698413' y='298.0' class='dataPointLabel'>
+1186
+</text>
+<a xlink:href=''>
+<circle cx='112.12698412698413' cy='304.0' r='10' style='opacity: 0'/>
+</a>
+<text x='140.15873015873018' y='338.0' class='dataPointLabelBackground'>
+1176
+</text>
+<text x='140.15873015873018' y='338.0' class='dataPointLabel'>
+1176
+</text>
+<a xlink:href=''>
+<circle cx='140.15873015873018' cy='344.0' r='10' style='opacity: 0'/>
+</a>
+<text x='168.19047619047618' y='370.0' class='dataPointLabelBackground'>
+1168
+</text>
+<text x='168.19047619047618' y='370.0' class='dataPointLabel'>
+1168
+</text>
+<a xlink:href=''>
+<circle cx='168.19047619047618' cy='376.0' r='10' style='opacity: 0'/>
+</a>
+<text x='182.20634920634922' y='390.0' class='dataPointLabelBackground'>
+1163
+</text>
+<text x='182.20634920634922' y='390.0' class='dataPointLabel'>
+1163
+</text>
+<a xlink:href=''>
+<circle cx='182.20634920634922' cy='396.0' r='10' style='opacity: 0'/>
+</a>
+<text x='350.3968253968254' y='370.0' class='dataPointLabelBackground'>
+1168
+</text>
+<text x='350.3968253968254' y='370.0' class='dataPointLabel'>
+1168
+</text>
+<a xlink:href=''>
+<circle cx='350.3968253968254' cy='376.0' r='10' style='opacity: 0'/>
+</a>
+<text x='364.41269841269843' y='390.0' class='dataPointLabelBackground'>
+1163
+</text>
+<text x='364.41269841269843' y='390.0' class='dataPointLabel'>
+1163
+</text>
+<a xlink:href=''>
+<circle cx='364.41269841269843' cy='396.0' r='10' style='opacity: 0'/>
+</a>
+<text x='378.42857142857144' y='338.0' class='dataPointLabelBackground'>
+1176
+</text>
+<text x='378.42857142857144' y='338.0' class='dataPointLabel'>
+1176
+</text>
+<a xlink:href=''>
+<circle cx='378.42857142857144' cy='344.0' r='10' style='opacity: 0'/>
+</a>
+<text x='392.44444444444446' y='354.0' class='dataPointLabelBackground'>
+1172
+</text>
+<text x='392.44444444444446' y='354.0' class='dataPointLabel'>
+1172
+</text>
+<a xlink:href=''>
+<circle cx='392.44444444444446' cy='360.0' r='10' style='opacity: 0'/>
+</a>
+<text x='406.4603174603175' y='306.0' class='dataPointLabelBackground'>
+1184
+</text>
+<text x='406.4603174603175' y='306.0' class='dataPointLabel'>
+1184
+</text>
+<a xlink:href=''>
+<circle cx='406.4603174603175' cy='312.0' r='10' style='opacity: 0'/>
+</a>
+<text x='420.4761904761905' y='266.0' class='dataPointLabelBackground'>
+1194
+</text>
+<text x='420.4761904761905' y='266.0' class='dataPointLabel'>
+1194
+</text>
+<a xlink:href=''>
+<circle cx='420.4761904761905' cy='272.0' r='10' style='opacity: 0'/>
+</a>
+<text x='434.49206349206355' y='310.0' class='dataPointLabelBackground'>
+1183
+</text>
+<text x='434.49206349206355' y='310.0' class='dataPointLabel'>
+1183
+</text>
+<a xlink:href=''>
+<circle cx='434.49206349206355' cy='316.0' r='10' style='opacity: 0'/>
+</a>
+<text x='448.5079365079365' y='290.0' class='dataPointLabelBackground'>
+1188
+</text>
+<text x='448.5079365079365' y='290.0' class='dataPointLabel'>
+1188
+</text>
+<a xlink:href=''>
+<circle cx='448.5079365079365' cy='296.0' r='10' style='opacity: 0'/>
+</a>
+<text x='490.55555555555554' y='233.99999999999997' class='dataPointLabelBackground'>
+1202
+</text>
+<text x='490.55555555555554' y='233.99999999999997' class='dataPointLabel'>
+1202
+</text>
+<a xlink:href=''>
+<circle cx='490.55555555555554' cy='239.99999999999997' r='10' style='opacity: 0'/>
+</a>
+<text x='504.5714285714286' y='218.0' class='dataPointLabelBackground'>
+1206
+</text>
+<text x='504.5714285714286' y='218.0' class='dataPointLabel'>
+1206
+</text>
+<a xlink:href=''>
+<circle cx='504.5714285714286' cy='224.0' r='10' style='opacity: 0'/>
+</a>
+<text x='532.6031746031747' y='174.0' class='dataPointLabelBackground'>
+1217
+</text>
+<text x='532.6031746031747' y='174.0' class='dataPointLabel'>
+1217
+</text>
+<a xlink:href=''>
+<circle cx='532.6031746031747' cy='180.0' r='10' style='opacity: 0'/>
+</a>
+<text x='574.6507936507936' y='238.0' class='dataPointLabelBackground'>
+1201
+</text>
+<text x='574.6507936507936' y='238.0' class='dataPointLabel'>
+1201
+</text>
+<a xlink:href=''>
+<circle cx='574.6507936507936' cy='244.0' r='10' style='opacity: 0'/>
+</a>
+<text x='588.6666666666667' y='258.0' class='dataPointLabelBackground'>
+1196
+</text>
+<text x='588.6666666666667' y='258.0' class='dataPointLabel'>
+1196
+</text>
+<a xlink:href=''>
+<circle cx='588.6666666666667' cy='264.0' r='10' style='opacity: 0'/>
+</a>
+<text x='616.6984126984127' y='294.0' class='dataPointLabelBackground'>
+1187
+</text>
+<text x='616.6984126984127' y='294.0' class='dataPointLabel'>
+1187
+</text>
+<a xlink:href=''>
+<circle cx='616.6984126984127' cy='300.0' r='10' style='opacity: 0'/>
+</a>
+<text x='644.7301587301587' y='270.0' class='dataPointLabelBackground'>
+1193
+</text>
+<text x='644.7301587301587' y='270.0' class='dataPointLabel'>
+1193
+</text>
+<a xlink:href=''>
+<circle cx='644.7301587301587' cy='276.0' r='10' style='opacity: 0'/>
+</a>
+<text x='658.7460317460318' y='290.0' class='dataPointLabelBackground'>
+1188
+</text>
+<text x='658.7460317460318' y='290.0' class='dataPointLabel'>
+1188
+</text>
+<a xlink:href=''>
+<circle cx='658.7460317460318' cy='296.0' r='10' style='opacity: 0'/>
+</a>
+<text x='672.7619047619047' y='310.0' class='dataPointLabelBackground'>
+1183
+</text>
+<text x='672.7619047619047' y='310.0' class='dataPointLabel'>
+1183
+</text>
+<a xlink:href=''>
+<circle cx='672.7619047619047' cy='316.0' r='10' style='opacity: 0'/>
+</a>
+<text x='686.7777777777778' y='362.0' class='dataPointLabelBackground'>
+1170
+</text>
+<text x='686.7777777777778' y='362.0' class='dataPointLabel'>
+1170
+</text>
+<a xlink:href=''>
+<circle cx='686.7777777777778' cy='368.0' r='10' style='opacity: 0'/>
+</a>
+<text x='728.8253968253969' y='398.0' class='dataPointLabelBackground'>
+1161
+</text>
+<text x='728.8253968253969' y='398.0' class='dataPointLabel'>
+1161
+</text>
+<a xlink:href=''>
+<circle cx='728.8253968253969' cy='404.0' r='10' style='opacity: 0'/>
+</a>
+<text x='742.8412698412699' y='414.0' class='dataPointLabelBackground'>
+1157
+</text>
+<text x='742.8412698412699' y='414.0' class='dataPointLabel'>
+1157
+</text>
+<a xlink:href=''>
+<circle cx='742.8412698412699' cy='420.0' r='10' style='opacity: 0'/>
+</a>
+<text x='756.8571428571429' y='462.0' class='dataPointLabelBackground'>
+1145
+</text>
+<text x='756.8571428571429' y='462.0' class='dataPointLabel'>
+1145
+</text>
+<a xlink:href=''>
+<circle cx='756.8571428571429' cy='468.0' r='10' style='opacity: 0'/>
+</a>
+<text x='0.0' y='242.0' class='dataPointLabelBackground' style='text-anchor: start;'>
 1200
 </text>
-<text x='110.375' y='258.0' class='dataPointLabel'>
+<text x='0.0' y='242.0' class='dataPointLabel' style='text-anchor: start;'>
 1200
 </text>
 <a xlink:href=''>
-<circle cx='110.375' cy='264.0' r='10' style='opacity: 0'/>
+<circle cx='0.0' cy='248.0' r='10' style='opacity: 0'/>
 </a>
-<text x='141.9107142857143' y='298.0' class='dataPointLabelBackground'>
+<text x='28.03174603174603' y='222.00000000000003' class='dataPointLabelBackground'>
+1205
+</text>
+<text x='28.03174603174603' y='222.00000000000003' class='dataPointLabel'>
+1205
+</text>
+<a xlink:href=''>
+<circle cx='28.03174603174603' cy='228.00000000000003' r='10' style='opacity: 0'/>
+</a>
+<text x='56.06349206349206' y='242.0' class='dataPointLabelBackground'>
+1200
+</text>
+<text x='56.06349206349206' y='242.0' class='dataPointLabel'>
+1200
+</text>
+<a xlink:href=''>
+<circle cx='56.06349206349206' cy='248.0' r='10' style='opacity: 0'/>
+</a>
+<text x='84.09523809523809' y='262.0' class='dataPointLabelBackground'>
+1195
+</text>
+<text x='84.09523809523809' y='262.0' class='dataPointLabel'>
+1195
+</text>
+<a xlink:href=''>
+<circle cx='84.09523809523809' cy='268.0' r='10' style='opacity: 0'/>
+</a>
+<text x='98.11111111111111' y='242.0' class='dataPointLabelBackground'>
+1200
+</text>
+<text x='98.11111111111111' y='242.0' class='dataPointLabel'>
+1200
+</text>
+<a xlink:href=''>
+<circle cx='98.11111111111111' cy='248.0' r='10' style='opacity: 0'/>
+</a>
+<text x='126.14285714285715' y='282.0' class='dataPointLabelBackground'>
 1190
 </text>
-<text x='141.9107142857143' y='298.0' class='dataPointLabel'>
+<text x='126.14285714285715' y='282.0' class='dataPointLabel'>
 1190
 </text>
 <a xlink:href=''>
-<circle cx='141.9107142857143' cy='304.0' r='10' style='opacity: 0'/>
+<circle cx='126.14285714285715' cy='288.0' r='10' style='opacity: 0'/>
 </a>
-<text x='157.67857142857144' y='258.0' class='dataPointLabelBackground'>
+<text x='140.15873015873018' y='242.0' class='dataPointLabelBackground'>
 1200
 </text>
-<text x='157.67857142857144' y='258.0' class='dataPointLabel'>
+<text x='140.15873015873018' y='242.0' class='dataPointLabel'>
 1200
 </text>
 <a xlink:href=''>
-<circle cx='157.67857142857144' cy='264.0' r='10' style='opacity: 0'/>
+<circle cx='140.15873015873018' cy='248.0' r='10' style='opacity: 0'/>
 </a>
-<text x='173.44642857142856' y='278.0' class='dataPointLabelBackground'>
+<text x='154.17460317460316' y='262.0' class='dataPointLabelBackground'>
 1195
 </text>
-<text x='173.44642857142856' y='278.0' class='dataPointLabel'>
+<text x='154.17460317460316' y='262.0' class='dataPointLabel'>
 1195
 </text>
 <a xlink:href=''>
-<circle cx='173.44642857142856' cy='284.0' r='10' style='opacity: 0'/>
+<circle cx='154.17460317460316' cy='268.0' r='10' style='opacity: 0'/>
 </a>
-<text x='204.98214285714286' y='258.0' class='dataPointLabelBackground'>
+<text x='182.20634920634922' y='242.0' class='dataPointLabelBackground'>
 1200
 </text>
-<text x='204.98214285714286' y='258.0' class='dataPointLabel'>
+<text x='182.20634920634922' y='242.0' class='dataPointLabel'>
 1200
 </text>
 <a xlink:href=''>
-<circle cx='204.98214285714286' cy='264.0' r='10' style='opacity: 0'/>
+<circle cx='182.20634920634922' cy='248.0' r='10' style='opacity: 0'/>
 </a>
-<text x='220.75' y='190.0' class='dataPointLabelBackground'>
+<text x='196.22222222222223' y='174.0' class='dataPointLabelBackground'>
 1217
 </text>
-<text x='220.75' y='190.0' class='dataPointLabel'>
+<text x='196.22222222222223' y='174.0' class='dataPointLabel'>
 1217
 </text>
 <a xlink:href=''>
-<circle cx='220.75' cy='196.0' r='10' style='opacity: 0'/>
+<circle cx='196.22222222222223' cy='180.0' r='10' style='opacity: 0'/>
 </a>
-<text x='236.51785714285714' y='210.00000000000003' class='dataPointLabelBackground'>
+<text x='210.23809523809524' y='194.0' class='dataPointLabelBackground'>
 1212
 </text>
-<text x='236.51785714285714' y='210.00000000000003' class='dataPointLabel'>
+<text x='210.23809523809524' y='194.0' class='dataPointLabel'>
 1212
 </text>
 <a xlink:href=''>
-<circle cx='236.51785714285714' cy='216.00000000000003' r='10' style='opacity: 0'/>
+<circle cx='210.23809523809524' cy='200.0' r='10' style='opacity: 0'/>
 </a>
-<text x='252.28571428571428' y='170.0' class='dataPointLabelBackground'>
+<text x='224.25396825396825' y='154.0' class='dataPointLabelBackground'>
 1222
 </text>
-<text x='252.28571428571428' y='170.0' class='dataPointLabel'>
+<text x='224.25396825396825' y='154.0' class='dataPointLabel'>
 1222
 </text>
 <a xlink:href=''>
-<circle cx='252.28571428571428' cy='176.0' r='10' style='opacity: 0'/>
+<circle cx='224.25396825396825' cy='160.0' r='10' style='opacity: 0'/>
 </a>
-<text x='268.0535714285714' y='190.0' class='dataPointLabelBackground'>
+<text x='238.26984126984127' y='174.0' class='dataPointLabelBackground'>
 1217
 </text>
-<text x='268.0535714285714' y='190.0' class='dataPointLabel'>
+<text x='238.26984126984127' y='174.0' class='dataPointLabel'>
 1217
 </text>
 <a xlink:href=''>
-<circle cx='268.0535714285714' cy='196.0' r='10' style='opacity: 0'/>
+<circle cx='238.26984126984127' cy='180.0' r='10' style='opacity: 0'/>
 </a>
-<text x='283.8214285714286' y='230.0' class='dataPointLabelBackground'>
+<text x='252.2857142857143' y='214.0' class='dataPointLabelBackground'>
 1207
 </text>
-<text x='283.8214285714286' y='230.0' class='dataPointLabel'>
+<text x='252.2857142857143' y='214.0' class='dataPointLabel'>
 1207
 </text>
 <a xlink:href=''>
-<circle cx='283.8214285714286' cy='236.0' r='10' style='opacity: 0'/>
+<circle cx='252.2857142857143' cy='220.0' r='10' style='opacity: 0'/>
 </a>
-<text x='299.5892857142857' y='166.0' class='dataPointLabelBackground'>
+<text x='266.30158730158735' y='150.0' class='dataPointLabelBackground'>
 1223
 </text>
-<text x='299.5892857142857' y='166.0' class='dataPointLabel'>
+<text x='266.30158730158735' y='150.0' class='dataPointLabel'>
 1223
 </text>
 <a xlink:href=''>
-<circle cx='299.5892857142857' cy='172.0' r='10' style='opacity: 0'/>
+<circle cx='266.30158730158735' cy='156.0' r='10' style='opacity: 0'/>
 </a>
-<text x='315.3571428571429' y='106.0' class='dataPointLabelBackground'>
+<text x='280.31746031746036' y='90.0' class='dataPointLabelBackground'>
 1238
 </text>
-<text x='315.3571428571429' y='106.0' class='dataPointLabel'>
+<text x='280.31746031746036' y='90.0' class='dataPointLabel'>
 1238
 </text>
 <a xlink:href=''>
-<circle cx='315.3571428571429' cy='112.0' r='10' style='opacity: 0'/>
+<circle cx='280.31746031746036' cy='96.0' r='10' style='opacity: 0'/>
 </a>
-<text x='331.125' y='130.0' class='dataPointLabelBackground'>
+<text x='294.33333333333337' y='114.0' class='dataPointLabelBackground'>
 1232
 </text>
-<text x='331.125' y='130.0' class='dataPointLabel'>
+<text x='294.33333333333337' y='114.0' class='dataPointLabel'>
 1232
 </text>
 <a xlink:href=''>
-<circle cx='331.125' cy='136.0' r='10' style='opacity: 0'/>
+<circle cx='294.33333333333337' cy='120.0' r='10' style='opacity: 0'/>
 </a>
-<text x='346.8928571428571' y='94.0' class='dataPointLabelBackground'>
+<text x='308.3492063492063' y='78.0' class='dataPointLabelBackground'>
 1241
 </text>
-<text x='346.8928571428571' y='94.0' class='dataPointLabel'>
+<text x='308.3492063492063' y='78.0' class='dataPointLabel'>
 1241
 </text>
 <a xlink:href=''>
-<circle cx='346.8928571428571' cy='100.0' r='10' style='opacity: 0'/>
+<circle cx='308.3492063492063' cy='84.0' r='10' style='opacity: 0'/>
 </a>
-<text x='362.6607142857143' y='78.0' class='dataPointLabelBackground'>
+<text x='322.36507936507934' y='62.0' class='dataPointLabelBackground'>
 1245
 </text>
-<text x='362.6607142857143' y='78.0' class='dataPointLabel'>
+<text x='322.36507936507934' y='62.0' class='dataPointLabel'>
 1245
 </text>
 <a xlink:href=''>
-<circle cx='362.6607142857143' cy='84.0' r='10' style='opacity: 0'/>
+<circle cx='322.36507936507934' cy='68.0' r='10' style='opacity: 0'/>
 </a>
-<text x='378.4285714285714' y='46.0' class='dataPointLabelBackground'>
+<text x='336.38095238095235' y='29.999999999999943' class='dataPointLabelBackground'>
 1253
 </text>
-<text x='378.4285714285714' y='46.0' class='dataPointLabel'>
+<text x='336.38095238095235' y='29.999999999999943' class='dataPointLabel'>
 1253
 </text>
 <a xlink:href=''>
-<circle cx='378.4285714285714' cy='52.0' r='10' style='opacity: 0'/>
+<circle cx='336.38095238095235' cy='35.99999999999994' r='10' style='opacity: 0'/>
 </a>
-<text x='425.7321428571429' y='98.0' class='dataPointLabelBackground'>
+<text x='378.42857142857144' y='82.0' class='dataPointLabelBackground'>
 1240
 </text>
-<text x='425.7321428571429' y='98.0' class='dataPointLabel'>
+<text x='378.42857142857144' y='82.0' class='dataPointLabel'>
 1240
 </text>
 <a xlink:href=''>
-<circle cx='425.7321428571429' cy='104.0' r='10' style='opacity: 0'/>
+<circle cx='378.42857142857144' cy='88.0' r='10' style='opacity: 0'/>
 </a>
-<text x='441.5' y='82.0' class='dataPointLabelBackground'>
+<text x='392.44444444444446' y='66.0' class='dataPointLabelBackground'>
 1244
 </text>
-<text x='441.5' y='82.0' class='dataPointLabel'>
+<text x='392.44444444444446' y='66.0' class='dataPointLabel'>
 1244
 </text>
 <a xlink:href=''>
-<circle cx='441.5' cy='88.0' r='10' style='opacity: 0'/>
+<circle cx='392.44444444444446' cy='72.0' r='10' style='opacity: 0'/>
 </a>
-<text x='457.26785714285717' y='130.0' class='dataPointLabelBackground'>
+<text x='406.4603174603175' y='114.0' class='dataPointLabelBackground'>
 1232
 </text>
-<text x='457.26785714285717' y='130.0' class='dataPointLabel'>
+<text x='406.4603174603175' y='114.0' class='dataPointLabel'>
 1232
 </text>
 <a xlink:href=''>
-<circle cx='457.26785714285717' cy='136.0' r='10' style='opacity: 0'/>
+<circle cx='406.4603174603175' cy='120.0' r='10' style='opacity: 0'/>
 </a>
-<text x='520.3392857142858' y='94.0' class='dataPointLabelBackground'>
+<text x='462.5238095238096' y='78.0' class='dataPointLabelBackground'>
 1241
 </text>
-<text x='520.3392857142858' y='94.0' class='dataPointLabel'>
+<text x='462.5238095238096' y='78.0' class='dataPointLabel'>
 1241
 </text>
 <a xlink:href=''>
-<circle cx='520.3392857142858' cy='100.0' r='10' style='opacity: 0'/>
+<circle cx='462.5238095238096' cy='84.0' r='10' style='opacity: 0'/>
 </a>
-<text x='536.1071428571428' y='78.0' class='dataPointLabelBackground'>
+<text x='476.53968253968253' y='62.0' class='dataPointLabelBackground'>
 1245
 </text>
-<text x='536.1071428571428' y='78.0' class='dataPointLabel'>
+<text x='476.53968253968253' y='62.0' class='dataPointLabel'>
 1245
 </text>
 <a xlink:href=''>
-<circle cx='536.1071428571428' cy='84.0' r='10' style='opacity: 0'/>
+<circle cx='476.53968253968253' cy='68.0' r='10' style='opacity: 0'/>
 </a>
-<text x='583.4107142857142' y='130.0' class='dataPointLabelBackground'>
+<text x='518.5873015873016' y='114.0' class='dataPointLabelBackground'>
 1232
 </text>
-<text x='583.4107142857142' y='130.0' class='dataPointLabel'>
+<text x='518.5873015873016' y='114.0' class='dataPointLabel'>
 1232
 </text>
 <a xlink:href=''>
-<circle cx='583.4107142857142' cy='136.0' r='10' style='opacity: 0'/>
+<circle cx='518.5873015873016' cy='120.0' r='10' style='opacity: 0'/>
 </a>
-<text x='599.1785714285714' y='174.0' class='dataPointLabelBackground'>
+<text x='532.6031746031747' y='158.0' class='dataPointLabelBackground'>
 1221
 </text>
-<text x='599.1785714285714' y='174.0' class='dataPointLabel'>
+<text x='532.6031746031747' y='158.0' class='dataPointLabel'>
 1221
 </text>
 <a xlink:href=''>
-<circle cx='599.1785714285714' cy='180.0' r='10' style='opacity: 0'/>
+<circle cx='532.6031746031747' cy='164.0' r='10' style='opacity: 0'/>
 </a>
-<text x='614.9464285714286' y='222.00000000000003' class='dataPointLabelBackground'>
+<text x='546.6190476190476' y='206.0' class='dataPointLabelBackground'>
 1209
 </text>
-<text x='614.9464285714286' y='222.00000000000003' class='dataPointLabel'>
+<text x='546.6190476190476' y='206.0' class='dataPointLabel'>
 1209
 </text>
 <a xlink:href=''>
-<circle cx='614.9464285714286' cy='228.00000000000003' r='10' style='opacity: 0'/>
+<circle cx='546.6190476190476' cy='212.0' r='10' style='opacity: 0'/>
 </a>
-<text x='630.7142857142858' y='245.99999999999997' class='dataPointLabelBackground'>
+<text x='560.6349206349207' y='230.0' class='dataPointLabelBackground'>
 1203
 </text>
-<text x='630.7142857142858' y='245.99999999999997' class='dataPointLabel'>
+<text x='560.6349206349207' y='230.0' class='dataPointLabel'>
 1203
 </text>
 <a xlink:href=''>
-<circle cx='630.7142857142858' cy='251.99999999999997' r='10' style='opacity: 0'/>
+<circle cx='560.6349206349207' cy='236.0' r='10' style='opacity: 0'/>
 </a>
-<text x='646.4821428571428' y='182.0' class='dataPointLabelBackground'>
+<text x='574.6507936507936' y='166.0' class='dataPointLabelBackground'>
 1219
 </text>
-<text x='646.4821428571428' y='182.0' class='dataPointLabel'>
+<text x='574.6507936507936' y='166.0' class='dataPointLabel'>
 1219
 </text>
 <a xlink:href=''>
-<circle cx='646.4821428571428' cy='188.0' r='10' style='opacity: 0'/>
+<circle cx='574.6507936507936' cy='172.0' r='10' style='opacity: 0'/>
 </a>
-<text x='662.25' y='162.0' class='dataPointLabelBackground'>
+<text x='588.6666666666667' y='146.0' class='dataPointLabelBackground'>
 1224
 </text>
-<text x='662.25' y='162.0' class='dataPointLabel'>
+<text x='588.6666666666667' y='146.0' class='dataPointLabel'>
 1224
 </text>
 <a xlink:href=''>
-<circle cx='662.25' cy='168.0' r='10' style='opacity: 0'/>
+<circle cx='588.6666666666667' cy='152.0' r='10' style='opacity: 0'/>
 </a>
-<text x='678.0178571428572' y='126.0' class='dataPointLabelBackground'>
+<text x='602.6825396825398' y='110.0' class='dataPointLabelBackground'>
 1233
 </text>
-<text x='678.0178571428572' y='126.0' class='dataPointLabel'>
+<text x='602.6825396825398' y='110.0' class='dataPointLabel'>
 1233
 </text>
 <a xlink:href=''>
-<circle cx='678.0178571428572' cy='132.0' r='10' style='opacity: 0'/>
+<circle cx='602.6825396825398' cy='116.0' r='10' style='opacity: 0'/>
 </a>
-<text x='693.7857142857142' y='90.0' class='dataPointLabelBackground'>
+<text x='616.6984126984127' y='74.0' class='dataPointLabelBackground'>
 1242
 </text>
-<text x='693.7857142857142' y='90.0' class='dataPointLabel'>
+<text x='616.6984126984127' y='74.0' class='dataPointLabel'>
 1242
 </text>
 <a xlink:href=''>
-<circle cx='693.7857142857142' cy='96.0' r='10' style='opacity: 0'/>
+<circle cx='616.6984126984127' cy='80.0' r='10' style='opacity: 0'/>
 </a>
-<text x='709.5535714285714' y='138.0' class='dataPointLabelBackground'>
+<text x='630.7142857142858' y='122.0' class='dataPointLabelBackground'>
 1230
 </text>
-<text x='709.5535714285714' y='138.0' class='dataPointLabel'>
+<text x='630.7142857142858' y='122.0' class='dataPointLabel'>
 1230
 </text>
 <a xlink:href=''>
-<circle cx='709.5535714285714' cy='144.0' r='10' style='opacity: 0'/>
+<circle cx='630.7142857142858' cy='128.0' r='10' style='opacity: 0'/>
 </a>
-<text x='725.3214285714286' y='162.0' class='dataPointLabelBackground'>
+<text x='644.7301587301587' y='146.0' class='dataPointLabelBackground'>
 1224
 </text>
-<text x='725.3214285714286' y='162.0' class='dataPointLabel'>
+<text x='644.7301587301587' y='146.0' class='dataPointLabel'>
 1224
 </text>
 <a xlink:href=''>
-<circle cx='725.3214285714286' cy='168.0' r='10' style='opacity: 0'/>
+<circle cx='644.7301587301587' cy='152.0' r='10' style='opacity: 0'/>
 </a>
-<text x='772.625' y='110.0' class='dataPointLabelBackground'>
+<text x='686.7777777777778' y='94.0' class='dataPointLabelBackground'>
 1237
 </text>
-<text x='772.625' y='110.0' class='dataPointLabel'>
+<text x='686.7777777777778' y='94.0' class='dataPointLabel'>
 1237
 </text>
 <a xlink:href=''>
-<circle cx='772.625' cy='116.0' r='10' style='opacity: 0'/>
+<circle cx='686.7777777777778' cy='100.0' r='10' style='opacity: 0'/>
 </a>
-<text x='788.3928571428572' y='74.0' class='dataPointLabelBackground'>
+<text x='700.7936507936508' y='58.0' class='dataPointLabelBackground'>
 1246
 </text>
-<text x='788.3928571428572' y='74.0' class='dataPointLabel'>
+<text x='700.7936507936508' y='58.0' class='dataPointLabel'>
 1246
 </text>
 <a xlink:href=''>
-<circle cx='788.3928571428572' cy='80.0' r='10' style='opacity: 0'/>
+<circle cx='700.7936507936508' cy='64.0' r='10' style='opacity: 0'/>
 </a>
-<text x='804.1607142857142' y='122.0' class='dataPointLabelBackground'>
+<text x='714.8095238095239' y='106.0' class='dataPointLabelBackground'>
 1234
 </text>
-<text x='804.1607142857142' y='122.0' class='dataPointLabel'>
+<text x='714.8095238095239' y='106.0' class='dataPointLabel'>
 1234
 </text>
 <a xlink:href=''>
-<circle cx='804.1607142857142' cy='128.0' r='10' style='opacity: 0'/>
+<circle cx='714.8095238095239' cy='112.0' r='10' style='opacity: 0'/>
 </a>
-<text x='835.6964285714286' y='106.0' class='dataPointLabelBackground'>
+<text x='742.8412698412699' y='90.0' class='dataPointLabelBackground'>
 1238
 </text>
-<text x='835.6964285714286' y='106.0' class='dataPointLabel'>
+<text x='742.8412698412699' y='90.0' class='dataPointLabel'>
 1238
 </text>
 <a xlink:href=''>
-<circle cx='835.6964285714286' cy='112.0' r='10' style='opacity: 0'/>
+<circle cx='742.8412698412699' cy='96.0' r='10' style='opacity: 0'/>
+</a>
+<text x='756.8571428571429' y='42.0' class='dataPointLabelBackground'>
+1250
+</text>
+<text x='756.8571428571429' y='42.0' class='dataPointLabel'>
+1250
+</text>
+<a xlink:href=''>
+<circle cx='756.8571428571429' cy='48.0' r='10' style='opacity: 0'/>
+</a>
+<text x='770.8730158730159' y='26.0' class='dataPointLabelBackground'>
+1254
+</text>
+<text x='770.8730158730159' y='26.0' class='dataPointLabel'>
+1254
+</text>
+<a xlink:href=''>
+<circle cx='770.8730158730159' cy='32.0' r='10' style='opacity: 0'/>
 </a>
 </g>
 </g>
